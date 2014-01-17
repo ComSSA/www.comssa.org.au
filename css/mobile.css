@@ -1,0 +1,26 @@
+@media (max-width: 799px) {
+	header, nav {
+		float: none;
+	}
+	header {
+		width: auto;
+		height: 10em;
+		background: white url(/images/logo2.png) no-repeat top center;
+	}
+	nav {
+		width: auto;
+		height: auto;
+		background: black;
+	}
+	nav a {
+		display: block;
+		padding: 0 1em;
+		height: 2.5em;
+		line-height: 2.5em;
+		color: white;
+		text-decoration: none;
+	}
+	nav a:first-child {
+		padding: 0 1em;
+	}
+}

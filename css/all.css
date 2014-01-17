@@ -6,7 +6,8 @@ html {
 	overflow-y: scroll;
 }
 body {
-	width: 45em;
+	max-width: 47em;
+	padding: 0 1em;
 	margin: 0em auto;
 	font-family: 'Open Sans';
 	font-size: 12pt;
