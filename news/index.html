@@ -1,0 +1,12 @@
+---
+layout: default
+title: News
+---
+
+{% for post in site.posts %}
+	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+	<p><i><time datetime="{{ post.date | date: '%Y-%m-%dT%H:%M:%SZ' }}">
+		{{ post.date | date: '%d/%m/%Y' }}
+	</time></i>
+	{{ post.content }}
+{% endfor %}
