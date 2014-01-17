@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'Open Sans';
+	src: url(../fonts/OpenSans400.woff);
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: italic;
+	src: url(../fonts/OpenSans400i.woff);
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-weight: bold;
+	src: url(../fonts/OpenSans700.woff);
+}

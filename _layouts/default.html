@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>
+			{% if page.title != %}
+				{{ page.title }} |
+			{% endif %}
+			ComSSA
+		</title>
+		<link rel="stylesheet" href="/css/style.css">
+		<link rel="icon" href="/images/favicon.png">
+	</head>
+	<body>
+		<header></header>
+		<nav>
+			<a href="/">home</a
+			><a href="/about/">about</a
+			><a href="/events/">events</a
+			><a href="/services/">services</a
+			><a href="/news/">news</a>
+		</nav>
+		{% if page.title != %}
+			<h1>{{ page.title }}</h1>
+		{% endif %}
+		{% if page.date %}
+		<p><a href="{{ page.url }}"><i>
+		<time datetime="{{ page.date | date: '%Y-%m-%dT%H:%M:%SZ' }}">
+			{{ page.date | date: '%Y-%m-%d %H:%M %Z' }}
+		</time>
+		</i></a>
+		{% endif %}
+		<article>
+
+{{ content }}
+
+		</article>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-47184608-2', 'comssa.org.au');
+ga('send', 'pageview');
+</script>
+	</body>
+</html>

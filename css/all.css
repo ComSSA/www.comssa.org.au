@@ -1,0 +1,105 @@
+* {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+html {
+	overflow-y: scroll;
+}
+body {
+	width: 52em;
+	margin: 0em auto;
+	font-family: 'Open Sans';
+	font-size: 12pt;
+	line-height: 1.5;
+}
+p, table {
+	margin: 0.5em 0;
+}
+header {
+	float: left;
+	width: 7em;
+	height: 5em;
+	background: black url(/images/logo.png) no-repeat top right;
+}
+h1, h2, h3, h4 {
+	margin-top: 0.5em;
+}
+h1 {
+	font-size: 2.5em;
+	clear: both;
+}
+h2 {
+	font-size: 1.5em;
+}
+h3 {
+	font-size: 1em;
+	font-style: italic;
+}
+dt {
+	font-weight: bold;
+}
+dd {
+	margin-left: 2em;
+}
+pre, code {
+	font-family: monospace;
+	font-size: 9pt;
+}
+pre {
+	background: #e0e0e0;
+	padding: 0.5em;
+}
+a {
+	color: black;
+}
+i, i * {
+	font-style: italic;
+}
+ul, ol, dl {
+	margin: 0.5em 0 0.5em 2em;
+}
+ul ul, ul ol, ul dl,
+ol ul, ol ol, ol dl,
+dl ul, dl ol, dl dl {
+	margin: 0 0 0 2em;
+}
+ul {
+	list-style: disc outside none;
+}
+ol {
+	list-style: decimal outside none;
+}
+sub {
+	vertical-align: sub;
+}
+sup {
+	vertical-align: super;
+}
+blockquote {
+	margin: 1em 1em 1em 4em;
+}
+blockquote:before {
+	content: '“';
+	display: block;
+	float: left;
+	margin: -0.25em 0 0 -1em;
+	font-size: 4em;
+	color: #808080;
+}
+nav {
+	float: right;
+	width: 45em;
+	height: 5em;
+	background: black;
+}
+nav a {
+	display: inline-block;
+	padding: 0 1em;
+	height: 5em;
+	line-height: 5em;
+	color: white;
+	text-decoration: none;
+}
+nav a:first-child {
+	padding-left: 2em;
+}
