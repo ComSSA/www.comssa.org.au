@@ -23,4 +23,9 @@
 	nav a:first-child {
 		padding: 0 1em;
 	}
+	.img_right {
+		float: none;
+		text-align: center;
+		margin: 0;
+	}
 }

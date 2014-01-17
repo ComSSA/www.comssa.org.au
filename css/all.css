@@ -7,8 +7,8 @@ html {
 }
 body {
 	max-width: 47em;
-	padding: 0 1em;
-	margin: 0em auto;
+	padding: 0 1em 1em 1em;
+	margin: 0 auto;
 	font-family: 'Open Sans';
 	font-size: 12pt;
 	line-height: 1.5;
@@ -103,4 +103,12 @@ nav a {
 }
 nav a:first-child {
 	padding-left: 2em;
+}
+.img_right {
+	float: right;
+	margin: 1em;
+}
+.img_right img {
+	max-width: 100%;
+	max-height: auto;
 }
