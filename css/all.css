@@ -104,6 +104,9 @@ nav a {
 nav a:first-child {
 	padding-left: 2em;
 }
+nav a:last-child {
+	padding-right: 2em;
+}
 .img_right {
 	float: right;
 	margin: 1em;

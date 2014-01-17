@@ -23,6 +23,9 @@
 	nav a:first-child {
 		padding: 0 1em;
 	}
+	nav a:last-child {
+		padding: 0 1em;
+	}
 	.img_right {
 		float: none;
 		text-align: center;
