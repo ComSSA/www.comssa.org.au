@@ -23,7 +23,7 @@ header {
 	background: black url(/images/logo.png) no-repeat top right;
 }
 h1, h2, h3, h4 {
-	margin-top: 0.5em;
+	padding-top: 0.5em;
 }
 h1 {
 	font-size: 2.2em;
