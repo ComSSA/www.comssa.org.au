@@ -83,6 +83,9 @@ sub {
 sup {
 	vertical-align: super;
 }
+abbr {
+	border-bottom: 1px dotted black;
+}
 blockquote {
 	margin: 1em 1em 1em 4em;
 }
