@@ -14,7 +14,7 @@
 	nav a {
 		text-align: center;
 		display: block;
-		padding: 0 1em;
+		padding: 0 0.75em;
 		height: 2.5em;
 		line-height: 2.5em;
 	}
@@ -22,10 +22,10 @@
 		display: none;
 	}
 	nav a:nth-child(2) {
-		padding: 0 1em;
+		padding: 0 0.75em;
 	}
 	nav a:last-child {
-		padding: 0 1em;
+		padding: 0 0.75em;
 	}
 	.img_right {
 		float: none;
