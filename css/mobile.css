@@ -3,24 +3,25 @@
 		float: none;
 	}
 	header {
-		width: auto;
-		height: 10em;
-		background: white url(/images/logo2.png) no-repeat top center;
+		display: block;
+		text-align: center;
 	}
 	nav {
-		width: auto;
+		padding-left: 0;
 		height: auto;
 		background: black;
 	}
 	nav a {
+		text-align: center;
 		display: block;
 		padding: 0 1em;
 		height: 2.5em;
 		line-height: 2.5em;
-		color: white;
-		text-decoration: none;
 	}
 	nav a:first-child {
+		display: none;
+	}
+	nav a:nth-child(2) {
 		padding: 0 1em;
 	}
 	nav a:last-child {

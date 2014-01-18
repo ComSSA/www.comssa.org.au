@@ -6,7 +6,7 @@ html {
 	overflow-y: scroll;
 }
 body {
-	max-width: 47em;
+	max-width: 42em;
 	padding: 0 1em 1em 1em;
 	margin: 0 auto;
 	font-family: 'Open Sans';
@@ -16,21 +16,14 @@ body {
 p, table {
 	margin: 0.5em 0;
 }
-header {
-	float: left;
-	width: 7em;
-	height: 5em;
-	background: black url(/images/logo.png) no-repeat top right;
-}
 h1, h2, h3, h4 {
 	padding-top: 0.5em;
 }
 h1 {
-	font-size: 2.2em;
-	clear: both;
+	font-size: 1.95em;
 }
 h2 {
-	font-size: 1.5em;
+	font-size: 1.4em;
 }
 h3 {
 	font-size: 1em;
@@ -97,9 +90,11 @@ blockquote:before {
 	font-size: 4em;
 	color: #808080;
 }
+header {
+	display: none;
+}
 nav {
-	float: right;
-	width: 38em;
+	padding-left: 2em;
 	height: 5em;
 	background: black;
 }
@@ -108,14 +103,18 @@ nav a {
 	padding: 0 1em;
 	height: 5em;
 	line-height: 5em;
+	vertical-align: middle;
 	color: white;
 	text-decoration: none;
 }
 nav a:first-child {
-	padding-left: 2em;
+	padding: 0;
+}
+nav a:nth-child(2) {
+	padding: 0 1em 0 2em;
 }
 nav a:last-child {
-	padding-right: 2em;
+	padding: 0 2em 0 1em;
 }
 .img_right {
 	float: right;
@@ -123,5 +122,4 @@ nav a:last-child {
 }
 .img_right img {
 	max-width: 100%;
-	max-height: auto;
 }
