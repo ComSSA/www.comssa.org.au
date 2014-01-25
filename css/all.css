@@ -123,3 +123,6 @@ nav a:last-child {
 .img_right img {
 	max-width: 100%;
 }
+.minutes {
+	background: none;
+}
