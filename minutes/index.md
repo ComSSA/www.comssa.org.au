@@ -5,14 +5,13 @@ title: Meeting minutes
 
 <h2>2014-04-03</h2>
 
-<pre>
-# "Forehead? More like five-head" edition
+### "Forehead? More like five-head" edition
 
-# Venue: Engineering Pavilion, 215.100
+### Venue: Engineering Pavilion, 215.100
 
-# Start: 2014-04-03T10:32Z
+### Start: <time datetime="2014-04-03T10:32Z">2014-04-03T10:32Z</time>
 
-# Attendance
+### Attendance
 
   * Callum Boyd
   * Jasmine Quek
@@ -22,29 +21,31 @@ title: Meeting minutes
   * Jamal Hamdan (Jimmy)
   * Scott Day
 
-# Late attendees
+### Late attendees
 
-  * Michael Mroz (Millie) 6:38pm
+  * Michael Mroz (Millie) at
+    <time datetime="2014-04-03T10:38Z">2014-04-03T10:38Z</time>
 
-# Apologies
+### Apologies
 
   * Daniel Brown (Denial)
 
-# Guests speaking
+### Guests speaking
 
   * Gregg Mudhuwiwa
   * Richard Pilgrim
 
-# Members speaking
+### Members speaking
 
   * Bradley Schoone (Baron)
   * Luke Mercuri (merc)
+  * Mitchell Pontague (Funsize)
 
-# Old minutes (world record longest meeting)
+### Old minutes (world record longest meeting)
 
   * No issues.
 
-# Treasury report
+### Treasury report
 
   * Duration: 2 weeks
   * Revenue: $867
@@ -52,36 +53,36 @@ title: Meeting minutes
   * Deposit: $745
   * Discrepancy: +$0.80
 
-# Upcoming Events
+### Upcoming Events
 
-## Scitech After Dark
+#### Scitech After Dark
 
   * Kye: get hype, bought 20 tickets from Scitech
   * 24 tickets sold
   * Jasmine and Kye: 5pm tomorrow is the cutoff date
   * Tickets at the door will be hit or miss
 
-## Movie night (week 6)
+#### Movie night (week 6)
 
   * Will be held on April 9th
   * Will talk to Amanda and try to book a room
   * No food allowed
 
-## Rock climbing
+#### Rock climbing
 
   * Delegate rock climbing to Delan
     * Email Hangout and ask when they're opening this year
     * Email Rockface and City Summit asking for quotes for a university group
     * Estimate 20 attendees
 
-# Club Merch
+### Club Merch
 
-## Shirts
+#### Shirts
 
   * Jasmine: shirts budget is $500 annually, we have $1000 rolled over in 2014
   * Because of the website design, printing at the back needs to be in person
 
-## Printing grant budget
+#### Printing grant budget
 
   * Jasmine: printing budget is $300 annually
   * We've either spent $176.43 or have that much left
@@ -90,7 +91,7 @@ title: Meeting minutes
   * Never print A3 and A2 posters without prior confirmation
   * Ensure that event posters are reusable (space for date, etc.)
 
-# CoderDojo
+### CoderDojo
 
   * Kye: things are good, things are happening
   * We have around 17 mentors signed up
@@ -104,7 +105,7 @@ title: Meeting minutes
     * Imogen wants to meet champion to discuss marketing and branding
     * Callum can sit in on meetings as requested
 
-# Card art competition
+### Card art competition
 
   * Callum: we have now had some actual, serious submissions
   * Unanimous informal vote for Alex's card
@@ -112,7 +113,7 @@ title: Meeting minutes
   * Use TidyClub member number converted to hexadecimal
     * Jasmine: no more custom member numbers
 
-# Meeting with Amanda and Nicoleta
+### Meeting with Amanda and Nicoleta
 
   * Callum and Jasmine met with Amanda and Nicoleta
   * We received a complaint from CroC that we were monopolising the hard floor
@@ -124,7 +125,7 @@ title: Meeting minutes
   * We are no longer allowed to let anyone in, entrants must use card access
     * All new members' card access must be requested through Amanda
 
-# LAN
+### LAN
 
   * Callum: the LAN is a significant thing
   * We need to police food and drink heavily, more so the former
@@ -150,7 +151,7 @@ title: Meeting minutes
   * We may raffle off the brown switch DAS keyboard
     * Delan volunteers to handle the raffle
 
-# Committee photos
+### Committee photos
 
   * Callum: do people want to do this
     * Yes: Kieran, Delan, Jasmine
@@ -161,34 +162,34 @@ title: Meeting minutes
       * Both of them were unable to breathe
   * Delan and Millie will take the photos
 
-# Sponsorships
+### Sponsorships
 
   * Netplus: no response
   * Boffins: forwarded to marketing manager, no response
 
-# TidyClub online payments
+### TidyClub online payments
 
   * Kye has sent the form to Isaak
 
-# Change of signatories
+### Change of signatories
 
   * Kieran: this is a thing that should happen
   * Tom will need to come in
   * Callum: we will need to prepare all of the paperwork
 
-# Spending policy 2014
+### Spending policy 2014
 
   * Callum to Kieran: what we need in our spending policy
     * Don't spend money without both the president's and treasurer's permission
   * Kieran needs to email Callum the draft by the end of next week
 
-# New meeting day
+### New meeting day
 
   * No Denial, pretty brutal to discuss
   * We can have meeting before or after Soccerballers on Tuesdays
   * Callum will discuss this issue with Denial outside of the meeting
 
-# Open floor
+### Open floor
 
   * Baron: has anyone figured out the locker situation?
     * Jasmine has been unable to contact Mike in person thus far
@@ -204,7 +205,22 @@ title: Meeting minutes
     * Millie and Delan agree
     * Callum: we can publicise minutes from this meeting onwards
 
-# Next meeting: Tuesday 2014-04-15
+### Next meeting: Tuesday 2014-04-15
 
-# Finish: 2014-04-03T11:51Z
-</pre>
+### Finish: <time datetime="2014-04-03T11:51Z">2014-04-03T11:51Z</time>
+
+<script>
+(function() {
+  function pad2(value) {
+    return ('0' + String(value)).slice(-2);
+  }
+  var tags = document.querySelectorAll('time');
+  for (var i = 0; i < tags.length; i++) {
+    var date = new Date(tags[i].dateTime);
+    var hours = date.getHours() % 12 || 12;
+    var minutes = date.getMinutes();
+    var ampm = date.getHours() < 12 ? 'a.m.' : 'p.m.';
+    tags[i].textContent = hours + ':' + minutes + ' ' + ampm;
+  }
+})();
+</script>
