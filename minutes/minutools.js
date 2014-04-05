@@ -4,7 +4,7 @@
 	}
 	var tags = document.querySelectorAll('time');
 	for (var i = 0; i < tags.length; i++) {
-		var date = new Date(tags[i].dateTime);
+		var date = new Date(tags[i].getAttribute('datetime'));
 		var hours = date.getHours() % 12 || 12;
 		var minutes = date.getMinutes();
 		var ampm = date.getHours() < 12 ? 'a.m.' : 'p.m.';
