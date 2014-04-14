@@ -16,17 +16,17 @@ title: Minutes for 2014-04-03
   * Delan Azabani
   * Kieran Gee
   * Kye Russell
-  * Jamal Hamdan (Jimmy)
+  * Jamal Hamdan
   * Scott Day
 
 ## Late attendees
 
-  * Michael Mroz (Millie) at
+  * Michael Mroz at
     <time datetime="2014-04-03T10:38Z">2014-04-03T10:38Z</time>
 
 ## Apologies
 
-  * Daniel Brown (Denial)
+  * Daniel Brown
 
 ## Guests speaking
 
@@ -35,9 +35,9 @@ title: Minutes for 2014-04-03
 
 ## Members speaking
 
-  * Bradley Schoone (Baron)
-  * Luke Mercuri (merc)
-  * Mitchell Pontague (Funsize)
+  * Bradley Schoone
+  * Luke Mercuri
+  * Mitchell Pontague
 
 ## Old minutes (world record longest meeting)
 
@@ -155,10 +155,10 @@ title: Minutes for 2014-04-03
     * Yes: Kieran, Delan, Jasmine
     * Necessary evil: Kye
   * Jasmine: wait until my fringe grows back out
-  * Jimmy: forehead? More like five-head
-    * Jimmy and Funsize laughed for several minutes
+  * Jamal: forehead? More like five-head
+    * Jamal and Mitchell laughed for several minutes
       * Both of them were unable to breathe
-  * Delan and Millie will take the photos
+  * Delan and Michael will take the photos
 
 ## Sponsorships
 
@@ -183,24 +183,24 @@ title: Minutes for 2014-04-03
 
 ## New meeting day
 
-  * No Denial, pretty brutal to discuss
+  * No Daniel, pretty brutal to discuss
   * We can have meeting before or after Soccerballers on Tuesdays
-  * Callum will discuss this issue with Denial outside of the meeting
+  * Callum will discuss this issue with Daniel outside of the meeting
 
 ## Open floor
 
-  * Baron: has anyone figured out the locker situation?
+  * Bradley: has anyone figured out the locker situation?
     * Jasmine has been unable to contact Mike in person thus far
     * Callum: we need to talk to Mike and say that we can't handle it
       * Being in 215 is impractical for lockers in 314
   * Delan: how will we get offline signups outside of orientation week?
-    * merc: The Spot can sell event tickets
+    * Luke: The Spot can sell event tickets
     * Jasmine: Guild allows membership signups through their website
       * Kye: probably bad but worth looking at
       * We need to update our Facebook page and Guild page
       * Jasmine will find out how to do this
   * Jasmine: could we publicise minutes?
-    * Millie and Delan agree
+    * Michael and Delan agree
     * Callum: we can publicise minutes from this meeting onwards
 
 ## Next meeting: Tuesday 2014-04-15
