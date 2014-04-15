@@ -120,7 +120,8 @@ title: Minutes for 2014-04-15
 ## Open floor
 
 ### Coderdojo update
-  * Scitech mentor induction workshop at: 28th April, 6 p.m. to 9 p.m.
+
+  * Scitech mentor induction: Monday 2014-04-28, 6 p.m. to 9 p.m.
     * We need to organise attendance and other issues, more on the list
   * Committee must choose a champion
     * Gregg wants the champion to be a ComSSA committee member
