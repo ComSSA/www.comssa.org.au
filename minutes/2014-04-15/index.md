@@ -168,6 +168,6 @@ title: Minutes for 2014-04-15
     * Choose OCM next meeting if suggestions are numerous and suitable
       * Otherwise OCM spot open until further notice
 
-## Next Meeting: Thursday 1st May
+## Next Meeting: Thursday 2014-05-01
 
 ## Finish: <time datetime="2014-04-03T11:29Z">7:29 p.m.</time>
