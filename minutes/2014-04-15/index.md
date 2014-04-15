@@ -161,7 +161,7 @@ title: Minutes for 2014-04-15
 
   * Michael resigns as OCM due to time constraints
   * Michael wants to be removed from the list before Quiz Night discussion
-  * Callum will call for OCMs on Facebook,
+  * Callum will call for OCMs on Facebook
     * Entrants shall send applications to the list
     * Requirement for candidates is that they are a member
     * Applications are free in form and may contain anything
