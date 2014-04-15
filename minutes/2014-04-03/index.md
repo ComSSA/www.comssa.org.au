@@ -3,11 +3,9 @@ layout: default
 title: Minutes for 2014-04-03
 ---
 
-## "Forehead? More like five-head" edition
-
 ## Venue: Engineering Pavilion, 215.100
 
-## Start: <time datetime="2014-04-03T10:32Z">2014-04-03T10:32Z</time>
+## Start: <time datetime="2014-04-03T10:32Z">6:32 p.m.</time>
 
 ## Attendance
 
@@ -22,7 +20,7 @@ title: Minutes for 2014-04-03
 ## Late attendees
 
   * Michael Mroz at
-    <time datetime="2014-04-03T10:38Z">2014-04-03T10:38Z</time>
+    <time datetime="2014-04-03T10:38Z">6:38 p.m.</time>
 
 ## Apologies
 
@@ -205,6 +203,4 @@ title: Minutes for 2014-04-03
 
 ## Next meeting: Tuesday 2014-04-15
 
-## Finish: <time datetime="2014-04-03T11:51Z">2014-04-03T11:51Z</time>
-
-<script src="../minutools.js"></script>
+## Finish: <time datetime="2014-04-03T11:51Z">7:51 p.m.</time>
