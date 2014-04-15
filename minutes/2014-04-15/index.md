@@ -75,7 +75,7 @@ title: Minutes for 2014-04-15
 ### Rock climbing
 
   * Friday 2014-05-16 (calendar week 11)
-  * From 7 p.m. until closing (roughly 10 p.m.?)
+  * From 7 p.m. until closing (roughly 10 p.m.)
   * Rockface quotes $15, booked tentatively
     * Delan will email to cancel
   * Hangout will be open, quotes $14
@@ -120,7 +120,7 @@ title: Minutes for 2014-04-15
 ## Open floor
 
 ### Coderdojo update
-  * Scitech mentor induction workshop at: 28th April, 6pm to 9pm
+  * Scitech mentor induction workshop at: 28th April, 6 p.m. to 9 p.m.
     * We need to organise attendance and other issues, more on the list
   * Committee must choose a champion
     * Gregg wants the champion to be a ComSSA committee member
