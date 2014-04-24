@@ -23,8 +23,7 @@ title: Minutes for 2014-04-15
 
   * Now that the minutes are public:
     * Avoid using nicknames
-    * Editions should only be in the agenda, not the minutes
-    * We need to be careful when publicly quoting others like Amanda
+    * We need to be careful when publicly quoting others
     * Complaints against members are to be made anonymous
 
 ## Treasury report
@@ -49,7 +48,7 @@ title: Minutes for 2014-04-15
     * Did send out an email, but should have followed up with a phone call
   * Turnout could have been much better, at least so that we could do raffle
   * Facebook event and other advertising should have been made earlier
-  * Power needs to be better indicated: where players should be plugging in
+  * Power needs to be better indicated: where members should be plugging in
   * A particular first year attendee was very disruptive
     * Broke a number of rules repeatedly, even after being told not to
       * Caused network connectivity to fail
@@ -64,6 +63,7 @@ title: Minutes for 2014-04-15
   * Next LAN:
     * Continue to Monday (3 nights)
     * Need to pack up by midday
+​    * Committee help out with setup of next event
   * All future LAN events:
     * Advertise the LAN more
     * Have more committee members attend the LAN
@@ -103,7 +103,6 @@ title: Minutes for 2014-04-15
 
 ## Committee photos
 
-  * Jasmine is okay with photos now, as her fringe has grown out
   * Committee photos will be taken during the next meeting
 
 ## Pool cues
