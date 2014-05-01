@@ -5,7 +5,7 @@ title: Minutes for 2014-04-15
 
 ## Venue: Engineering Pavilion, 215.100
 
-## Start: <time datetime="2014-04-03T10:30Z">6:30 p.m.</time>
+## Start: <time datetime="2014-04-15T10:30Z">6:30 p.m.</time>
 
 ## Attendance
 
@@ -169,4 +169,4 @@ title: Minutes for 2014-04-15
 
 ## Next Meeting: Thursday 2014-05-01
 
-## Finish: <time datetime="2014-04-03T11:29Z">7:29 p.m.</time>
+## Finish: <time datetime="2014-04-15T11:29Z">7:29 p.m.</time>
