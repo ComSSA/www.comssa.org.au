@@ -148,6 +148,6 @@ title: Minutes for 2014-05-01
   * Will participate if decent size and facilities
   * Kieran and Callum will organise
 
-## Next meeting: Thursday 2014-05-15
+## Next meeting: Thursday 2014-05-13
 
 ## Finish: <time datetime="2014-05-01T11:40Z">7:40 p.m.</time>
