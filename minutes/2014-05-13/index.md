@@ -126,9 +126,13 @@ title: Minutes for 2015-05-13
   * Jasmine requests a dedicated CoderDojo meeting section
     * At least for the next four meetings
 
-## Open floor
+## Meeting venue
 
   * Due to noise, future meetings are to be held in 215.104 or 215.301
+
+## Open floor
+
+  * No issues
 
 ## Next meeting: Thursday 2014-05-29
 
