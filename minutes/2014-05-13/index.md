@@ -79,7 +79,7 @@ title: Minutes for 2015-05-13
   * CITS are known to be previously unhelpful in this area
   * Gregg said it might be possible to house it in an office
   * Jasmine will ask Amanda for possible options
-  * Kieran and Daniel will talk to Ian from BTech within the week
+  * Kieran and Daniel will talk to Iain from BTech within the week
 
 ## Club merch
 
