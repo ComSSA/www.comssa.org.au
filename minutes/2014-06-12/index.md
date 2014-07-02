@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Minutes for 2015-06-12
+title: Minutes for 2014-06-12
 ---
 
 ## Venue: Engineering Pavilion, 215.301
