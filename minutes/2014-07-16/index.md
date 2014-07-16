@@ -38,7 +38,7 @@ title: Minutes for 2014-07-16
   * Deposit: $490.00 will do
   * Discrepancy: +$194.00
     * Delan didn't track raffle ticket sales
-    * Emergency switch costs
+    * Money spent to buy replacement switches for the LAN
 
 ## Post events
 
@@ -50,8 +50,6 @@ title: Minutes for 2014-07-16
   * Next time: end officially on Sunday night about 6pm
   * The LAN after next is a total university week off
   * Amanda is no longer our room booking contact
-  * Tell people to bathe more, filthy scrubs
-  * Don't leave your wallet in the bathroom, Daniel
 
 ### ECU GigaLAN
 
@@ -115,7 +113,7 @@ title: Minutes for 2014-07-16
 
 ## Pool man
 
-  * Pool man has not return Alex's calls
+  * Pool man has not returned Alex's calls
   * Alex will look into other businesses that do pool table repairs
   * Fix the pool table before copying the lock keys
   * Try to finish both tasks before the end of the break
