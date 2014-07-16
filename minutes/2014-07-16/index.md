@@ -152,7 +152,7 @@ title: Minutes for 2014-07-16
   * ComSSA branded pins for high achieving ninjas
     * If Engineering Outreach pays, Curtin branding guidelines are required
     * $325 per term gives us about 50 pins
-    * Once off payment for $210 yields 30 pins
+    * Once off payment for $210 yields 30 pins for black belts
 
 ## Amanda
 
