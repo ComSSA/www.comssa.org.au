@@ -145,7 +145,7 @@ title: Minutes for 2014-08-06
 ## PMH server
 
   * The lab would have been renovated, so we may have a space with power
-  * Kieran will allow Nazara to help out with setting up the server
+  * Kieran will allow Nathaniel Roach to help out with setting up the server
   * Setup will hopefully occur tomorrow
 
 ## Open floor
