@@ -54,7 +54,7 @@ title: Minutes for 2014-08-06
 
 ### Gundam night
 
-  * Delan, Alex, Callum and Denial are attending
+  * Delan, Alex, Callum and Daniel are attending
   * Next Wednesday night
   * Delan will create the Facebook event
   * Jasmine will share the event with the AniCu Facebook group
