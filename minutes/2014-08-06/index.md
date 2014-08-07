@@ -56,16 +56,16 @@ title: Minutes for 2014-08-06
 
   * Delan, Alex, Callum and Denial are attending
   * Next Wednesday night
-  * Facebook event will be created by Delan
+  * Delan will create the Facebook event
   * Jasmine will share the event with the AniCu Facebook group
   * Club members receive $5 off their first purchase
   * No preorders
 
 ### Analogue games night
 
-  * Week 4 Wednesday night
+  * Wednesday 2014-08-27
   * Everyone should theoretically be attending
-  * Facebook event will be created by Delan
+  * Delan will create the Facebook event
 
 ### LAN
 
@@ -98,7 +98,7 @@ title: Minutes for 2014-08-06
   * The first session went without a hitch
   * 78% attendance which is an improvement
   * Had a surplus of rooms
-  * Pin designs are available, 5-2 consensus to #2
+  * Pin designs are available, 5-2 consensus to the second design
   * Raymond will demonstrate on the session after next
 
 ## Behaviour at ComSSA events
@@ -137,9 +137,9 @@ title: Minutes for 2014-08-06
 
 ## Quiz night
 
-  * Delan, Alex and Kieran have submitted our main sections only
+  * Delan, Alex and Kieran have submitted their main sections only
   * Everyone needs to submit their main and special questions
-  * The slide deck will be created by Delan
+  * Delan will create the slide deck
   * Callum will tentatively MC the quiz night
 
 ## PMH server
@@ -170,7 +170,7 @@ title: Minutes for 2014-08-06
 
 ### AGM
 
-  * Wednesday October 15th
+  * Wednesday 2014-10-15
   * Ground floor of pavilion is taken
   * We may ask Guild through Bec for a venue booking
   * Open up nominations a month beforehand
