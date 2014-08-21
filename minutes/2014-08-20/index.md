@@ -100,13 +100,13 @@ title: Minutes for 2014-08-20
   * This year's committee, last year's committee, plus Amanda
   * New Curtin Concept lady was helpful
 
-### Pool man
+## Pool man
 
   * Alex and Jasmine are working together to get responses
   * Called the manager, obtained a quote emailed to us
   * Jasmine will call again tomorrow
 
-### CoderDojo
+## CoderDojo
 
   * Everything is fantastic
   * One ninja said that the mentors didn't know anything
