@@ -5,7 +5,7 @@ title: Minutes for 2014-08-06
 
 ## Venue: Engineering Pavilion, 215.100
 
-## Start: <time datetime="2014-07-16T10:36Z">6:36 p.m.</time>
+## Start: <time datetime="2014-08-06T10:36Z">6:36 p.m.</time>
 
 ## Attendance
 
@@ -179,4 +179,4 @@ title: Minutes for 2014-08-06
 
 ## Next meeting: Wednesday 2014-08-20
 
-## Finish: <time datetime="2014-07-16T11:52Z">7:52 p.m.</time>
+## Finish: <time datetime="2014-08-06T11:52Z">7:52 p.m.</time>
