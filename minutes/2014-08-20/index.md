@@ -32,7 +32,12 @@ title: Minutes for 2014-08-20
 
 ## Treasury report
 
-  * (not yet available)
+  * Duration: 14 days
+  * Revenue: $372.75
+    * Pool was $362.75
+  * Deposit: did not go to bank
+  * Discrepancy: +$98.30
+  * Balance: did not go to bank
 
 ## Post events
 
