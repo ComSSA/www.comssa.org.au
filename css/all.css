@@ -46,7 +46,7 @@ pre {
 a {
 	color: black;
 }
-i, i * {
+i, i *, em, em * {
 	font-style: italic;
 }
 td, th {
