@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/delan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.comssa.org.au
+  * I am delan (https://keybase.io/delan) on keybase.
+  * I have a public key with fingerprint 7F21 2455 67B2 3E09 2664  20EF 0548 7476 1841 6AA7
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "7f21245567b23e09266420ef0548747618416aa7",
+            "host": "keybase.io",
+            "key_id": "0548747618416aa7",
+            "uid": "34c8e9bc38ac47178859bd811a5f3d00",
+            "username": "delan"
+        },
+        "service": {
+            "hostname": "www.comssa.org.au",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1410703105,
+    "expire_in": 157680000,
+    "prev": "0ada7f4e1c410f0a964378f336c9995dd368d2806f2efadf5f3d6eddcba7f563",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.0.3
+Comment: https://keybase.io/crypto
+
+yML6AnicO8LLzMDFyOpRUibhmLWc8fSBr6UMIaLzGauVkvJTKpWsqpWyU8FUWmZe
+empRQVFmXomSlZJ5mpGhkYmpqZl5kpFxqoGlkZmZiZFBapqBqYmFuYm5maGFiaFZ
+YqK5ko5SRn4xSAfQmKTE4lS9zHygGJATn5kCFMWivhQsYWySbJFqmZRsbJGYbGJu
+aG5hYWqZlGJhaJhommacYmAAUlicWpSXmJsKVJ2SmpOYp1SrowQUKstMTgU5GGQv
+VLq8vFwvOT+3uDhRL78oXS+xFKi7oCi/JD85PwconVFSUlBsBdJeUlkAVp+aFA81
+KT4pMy8F6HWgjrLUouLM/DwlK0OgyuSSTJDRhiaGBuYGxoYGpjpKqRUFmUWp8Zkg
+FabmZhYGQACyJ7UM5NHElETzNJNUw2SgjjSDREszE2NzizRjY7NkS0tL05QUYzOL
+FCMLA7M0o9S0xJQ0kC/NUlNSkpOA2kzNjJVAfivMyweZDXRnYjrQzOLM9LzEktKi
+VKXaQwdjWBgYuRjYWJlAscfAxSkAi1MlXv7/CUrL65ZcnG0qFKe9a4px9c6wC7LC
+wfrfbS7JP9+xMq1+oneO2GJ11xrXoHtr4/6dPNblpjx7nc8uoTmfDp09m2gtedBI
+5LqKTT4/c8ys9lA5sV0VW0IZOaelnY/7GvLGmce21Nx7R6WklTXrCi626YzrYyZa
+fvIpLCjbdU7K6bzcHaaDwjfE11wJMl16Yv/xnf4milOSD92YsqIzpmcj56HnnOwH
+spmfLvITZVabfPp5e/oUd+Ebqz5HZE+PO+R9utyY47yq4eZeRe/Ns/hvbHdtfz9j
+lxx7WaGa0gax13smsuze2pxz9/ivth9J2kymAqfq/tX0L+9esPL2p8Ily+JsFxvd
+celVc1r/S/l47HHmlXO0eydHnJpb7eD0zXvNlV9MXrmGu3/dfWPcwZ7R0Nn5SHTP
+lDfGRWvUDvFslX5w8EzBvhRF3f8dV57p3N996PWtj7LyqcvWXNJ08s6wW717rcPz
+yx37A/mzE0zPS3UaS3UdsY9RSGXScL0+c9ZNk8Xvn07Z9KU3Xf7/p/KCOJHjIl77
+lgZyL+Hg37/99ownJc3NMfIzOr6Ivj57j01cZcNxrpLr/g7H5qy9X7J/ZrBRjGcX
+e6njmec5gadCpn5UvG3yedWWHj5Zo8p3lQk2fH9jDtc8kPG5YDzpBbN997dny5aV
+bVeMfRZ6p8Qg8FGoQafwxte3fs5/8/ob76yyUysi5uSGGUiI3HdfBABGNov0
+=Je3V
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/delan
+
+==================================================================
