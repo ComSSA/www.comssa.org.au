@@ -103,9 +103,9 @@ title: Minutes for 2014-08-06
 
 ## Behaviour at ComSSA events
 
-  * Jason believes that behaviour at the last LAN was discriminatory
-  * Jason views that the vernacular used was inappropriate
-  * He feels that ComSSA is not adequately preventing this
+  * A complainant believes that behaviour at the last LAN was discriminatory
+  * Said complainant views that the vernacular used was inappropriate
+  * Said complainant feels that ComSSA is not adequately preventing this
   * ComSSA has never been discriminatory towards those who would be offended
     by those words in a serious context
   * The club attendance is diverse enough such that this is not an issue
