@@ -3,7 +3,7 @@ layout: default
 title: Minutes for 2014-10-15
 ---
 
-## Venue: Engineering Pavilion, 215.100
+## Venue: Engineering Pavilion, 215.301
 
 ## Start: <time datetime="2014-10-15T10:56Z">6:56 p.m.</time>
 
