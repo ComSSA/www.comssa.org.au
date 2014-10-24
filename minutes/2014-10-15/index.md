@@ -71,7 +71,7 @@ title: Minutes for 2014-10-15
 
   * Callum and Delan spoke to Amanda today
   * We have booked two LANs, both after Adventure World and Weemas
-  * The first booking runs from Friday 2014-11-28 to Friday 2014-12-01
+  * The first booking runs from Friday 2014-11-28 to Monday 2014-12-01
     * Times are 7 p.m. and 1 p.m. respectively
   * The second booking runs from Thursday 2015-01-22 to Tuesday 2015-01-27
     * Times are 4 p.m. and 3 p.m. respectively
