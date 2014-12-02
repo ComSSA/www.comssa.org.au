@@ -104,6 +104,17 @@ Adam Parsons was elected.
   * However, as we ramp up activities, we are open to adding more
   * The OCMs selected were Nathaniel Roach, Jasmine Quek and Luke Mercuri
 
+## Change in signatories
+
+  * The current signatories are:
+    * Callum Boyd (former President)
+    * Thomas Dowling (former Vice President)
+    * Kieran Gee (former Treasurer)
+  * The new signatories shall be:
+    * Delan Azabani (new President)
+    * Kye Russell (new Vice President)
+    * Joshua Batchelor (new Treasurer)
+
 ## Next meeting: Wednesday 2014-10-15, 6:30 p.m.
 
 ## Finish: <time datetime="2014-10-15T05:06Z">1:06 p.m.</time>
