@@ -22,22 +22,29 @@ minutes][minutes].
 
 <table class="horiz_tbl">
 	<tr>
-		<th>President
-		<td><a href="mailto:president@comssa.org.au">Delan Azabani</a>
+		<th>President</th>
+		<td><a href="mailto:president@comssa.org.au">Delan Azabani</a></td>
+	</tr>
 	<tr>
-		<th>Vice President
-		<td><a href="mailto:vp@comssa.org.au">Kye Russell</a>
+		<th>Vice President</th>
+		<td><a href="mailto:vp@comssa.org.au">Kye Russell</a></td>
+	</tr>
 	<tr>
-		<th>Treasurer
-		<td><a href="mailto:money@comssa.org.au">Josh Batchelor</a>
+		<th>Treasurer</th>
+		<td><a href="mailto:money@comssa.org.au">Josh Batchelor</a></td>
+	</tr>
 	<tr>
-		<th>Secretary
-		<td><a href="mailto:secretary@comssa.org.au">Adam Parsons</a>
+		<th>Secretary</th>
+		<td><a href="mailto:secretary@comssa.org.au">Adam Parsons</a></td>
+	</tr>
 	<tr>
-		<th colspan="2">Ordinary committee members
+		<th colspan="2">Ordinary committee members</th>
+	</tr>
 	<tr>
-		<td><a href="mailto:nathaniel@comssa.org.au">Nathaniel Roach</a>
-		<td><a href="mailto:jasmine@comssa.org.au">Jasmine Quek</a>
+		<td><a href="mailto:nathaniel@comssa.org.au">Nathaniel Roach</a></td>
+		<td><a href="mailto:jasmine@comssa.org.au">Jasmine Quek</a></td>
+	</tr>
 	<tr>
-		<td><a href="mailto:luke@comssa.org.au">Luke Mercuri</a>
+		<td><a href="mailto:luke@comssa.org.au">Luke Mercuri</a></td>
+	</tr>
 </table>
