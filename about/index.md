@@ -48,3 +48,17 @@ minutes][minutes].
 		<td><a href="mailto:luke@comssa.org.au">Luke Mercuri</a></td>
 	</tr>
 </table>
+
+## Affiliates
+
+ComSSA shares knowledge and runs joint events with three of the major
+computing clubs at neighbouring universities, bringing together our
+student communities.
+
+  * [UCC] at the University of Western Australia
+  * [CASSA] at Edith Cowan University
+  * [MITS] at Murdoch University
+
+[UCC]: https://www.ucc.asn.au/
+[CASSA]: https://www.cassa.org.au/
+[MITS]: http://mits.murdoch.edu.au/
