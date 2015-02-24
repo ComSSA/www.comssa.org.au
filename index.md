@@ -25,16 +25,16 @@ voucher from the Guild diary.
 [Join us now][join] or contact us for any other enquiries:
 
   * [club@comssa.org.au][email]
-  * [https://www.facebook.com/groups/ComSSA/][facebook]
+  * [https://www.facebook.com/ComSSACurtin/][facebook]
   * [irc://irc.comssa.org.au/comssa][irc]
   *      ComSSA
-    <br> c/o Curtin Student Guild
-    <br> Building 106F
+    <br> c/o Department of Computing
+    <br> Building 314
     <br> Curtin University
     <br> Kent Street
     <br> Bentley WA 6102
 
 [join]: /join/
 [email]: mailto:club@comssa.org.au
-[facebook]: https://www.facebook.com/groups/ComSSA/
+[facebook]: https://www.facebook.com/ComSSACurtin/
 [irc]: irc://irc.comssa.org.au/comssa
