@@ -31,7 +31,8 @@ title: Minutes for 2015-02-11
     * The treasury folder will be made public
     * The majority of each report will be in the minutes, but truncated if lists become too long
     * Links to the full reports will be given when this happens
-  * Duration: 15 days
+  * Until 2015-02-11
+  * Duration: 14 days
   * Income: $41.05
     * Pool: $31.05
     * LAN: $10.00
@@ -46,7 +47,7 @@ title: Minutes for 2015-02-11
     * This isn't in line with the spending policy
     * Cash will be deposited soon
     * Currently it's mostly smaller notes and coins for pool change
-  * No discrepancy
+  * Discrepancy: $0.00
   * The PDF report is now online
   * Daily reminder: online banking has made life so much easier
 
