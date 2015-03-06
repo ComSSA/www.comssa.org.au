@@ -17,10 +17,12 @@ The next meeting will be at 11:00 a.m. on Wednesday 4th March.
 
   * [Staff vs. students LAN][lan] — Friday, 27th February
   * [Grill the Department][grill] — Monday, 2nd March
+  * [ComSSA does Ice Skating][skating] — Tuesday, 17th March
   * [ComSSA does NEXTDC][nextdc] — Friday, 20th March
   * [ComSSA does Pot Black][pool] — Friday, 1st May
 
 [lan]: https://www.facebook.com/events/445832498902129/
 [grill]: https://www.facebook.com/events/1657953951098559/
+[skating]: https://www.facebook.com/events/741306642654393/
 [nextdc]: https://www.facebook.com/events/1587524711490444/
 [pool]: https://www.facebook.com/events/390332384460884/
