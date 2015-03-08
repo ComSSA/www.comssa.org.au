@@ -15,10 +15,12 @@ The next meeting will be at 12:00 p.m. on Wednesday 4th March.
 
 ## Upcoming events on Facebook
 
+  * [ComSSA Movie Night][movie] — Friday, 13th March
   * [ComSSA does Ice Skating][skating] — Tuesday, 17th March
   * [ComSSA does NEXTDC][nextdc] — Friday, 20th March
   * [ComSSA does Pot Black][pool] — Friday, 1st May
 
+[movie]: https://www.facebook.com/events/613724098762605/
 [skating]: https://www.facebook.com/events/741306642654393/
 [nextdc]: https://www.facebook.com/events/1587524711490444/
 [pool]: https://www.facebook.com/events/390332384460884/
