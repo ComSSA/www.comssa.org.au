@@ -3,7 +3,8 @@ layout: default
 title: Event calendar
 ---
 
-The next meeting will be at 3:00 p.m. on Saturday 21st March.
+The next meeting will be in the ground floor of the Engineering
+Pavilion (215.100) at 6:00 p.m. on Thursday 2nd April.
 
 <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=480&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=azabani.com_plkldqk6cqm9k18kicouvq0h10%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=Australia%2FPerth" style=" border-width:0 " width="640" height="480" frameborder="0" scrolling="no"></iframe>
 
