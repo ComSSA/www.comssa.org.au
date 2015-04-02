@@ -1,3 +1,8 @@
+---
+layout: default
+title: Minutes for 2015-02-11
+---
+
 ## Venue 314.216
 
 ## Start 3:18
