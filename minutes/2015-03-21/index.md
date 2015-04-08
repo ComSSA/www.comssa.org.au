@@ -40,12 +40,12 @@ title: Minutes for 2015-03-21
   * Treasury Period 12/2 to 7/3, 24 days
   * Income $633.01
   * Expenditure $506.69
-	* Guild Printing $40
-	* Gees $14
-	* Dreamspeark $350
-	* Digital Ocean $66
-	* Grill the Dept $34
-	* Discrepency -$1
+    * Guild Printing $40
+    * Gees $14
+    * Dreamspeark $350
+    * Digital Ocean $66
+    * Grill the Dept $34
+  * Discrepency -$1
   * Profit $126.32
   * Treasury Period 12/2 to 7/3, 24 days
   * It was late by 3 days to include new memberships all in one report
@@ -55,10 +55,10 @@ title: Minutes for 2015-03-21
   * Treasury Period 8/3 end 20/3, 13 days
   * Income $449
   * Expenditure $446.10
-  	* Drinks $112
-  	* Movie Night $22
-  	* ABN $78
-  	* Iceskating $234
+    * Drinks $112
+    * Movie Night $22
+    * ABN $78
+    * Iceskating $234
   * Profit $2.90
   * Discrepancy -$40.90
   * Stripe payments changed how we get payed, they take the fee out of our money
@@ -71,17 +71,17 @@ title: Minutes for 2015-03-21
 ## Old action items 
 
   * Delan: contact Boffins about sponsorship 
-  		* Not done 
+    * Not done 
   * Adam: communicate with CEC 
-  		* Not done
+    * Not done
   * Adam: decide on and order club merchandise 
-  		* Not done
+    * Not done
   * Jasmine: contact Sentient Computing about TFTI and sponsorship 
-  		* Did a draft, sending today
+    * Did a draft, sending today
   * Luke: talk to Aneesh regarding TFTI 
-  		* emailed him, he didn't respond, this was after the last meeting
-  		* Saw him in person, nearly hit him with a vortex, whoops
-  		* He said he hasn't done it yet
+	  * emailed him, he didn't respond, this was after the last meeting
+	  * Saw him in person, nearly hit him with a vortex, whoops
+	  * He said he hasn't done it yet
 
 ## Past events 
 
@@ -147,10 +147,10 @@ title: Minutes for 2015-03-21
   * Include in the description stuff you /MUST/ bring/do
   * Failure of communication if people arent bringing ethernet cables
   * Prizes: ethernet cable (joke prize, unterminated)
-  			steam cards 
-  			3x$20
-  	Raffle: 
-  			Raffle voted down 2 - 4 - 0 
+    * Steam cards 
+  	* 3x$20
+  * Raffle: 
+  	* Raffle voted down 2/4/0 
   * Tell staff, ray wanted to know when the next is
   * raymond, hannes will get emails anyway but delan will talk to them personally
   * LANCONTENT done in a form
@@ -164,7 +164,7 @@ title: Minutes for 2015-03-21
   * Its may 29th
   * Josh Morely: aiming for 200 people
   * open to everyone
-  * google does everything, not even the abmassadors, actual google
+  * Google does everything, not even the abmassadors, actual google
   * ComSSA to talk to UCC
 
 
