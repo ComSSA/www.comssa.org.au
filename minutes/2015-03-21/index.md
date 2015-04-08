@@ -8,7 +8,6 @@ title: Minutes for 2015-03-21
 ## Start 3:18
 
 ## Attendance 
-
   * Delan Azabani
   * Josh Batchelor 
   * Adam Parsons
@@ -16,6 +15,7 @@ title: Minutes for 2015-03-21
   * Luke Mercuri
   * Jasmine Quek (Late)
 
+### Guests
   * Josh Morley (Google Ambassador)
   * Kye Russell (Outgoing VP)
   * Dominic May
