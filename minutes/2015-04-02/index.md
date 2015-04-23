@@ -212,7 +212,7 @@ title: Minutes for 2015-01-04
   * This is up to Bradley to put to a vote after further discussion
   * Adam: there's no real easy way to do that without spamming people, and the meeting is entirely open to the public anyway, we would never deny someone who asks for the agenda or to add to it, so at this point in time and for our given format it makes little sense to do
 
-## Princess Margerate Server
+## Princess Margaret Server
   * Nathaniel: PMS (a server donated to us by PMH) needs to do something, it's still doing nothing
   * Adam: With the sudden backflip CITS have made and started chasing people down (IMHO) incredibly aggressively for internet usage, the discussion for hosting PMS off-campus should consider this in the decision
 
