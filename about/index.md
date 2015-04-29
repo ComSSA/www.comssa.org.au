@@ -23,11 +23,11 @@ minutes][minutes].
 <table class="horiz_tbl">
 	<tr>
 		<th>President</th>
-		<td><a href="mailto:president@comssa.org.au">Delan Azabani</a></td>
+		<td><a href="mailto:president@comssa.org.au">Luke Mercuri</a></td>
 	</tr>
 	<tr>
 		<th>Vice President</th>
-		<td><a href="mailto:vp@comssa.org.au">Kye Russell</a></td>
+		<td><a href="mailto:vp@comssa.org.au">Jacob Chapman</a></td>
 	</tr>
 	<tr>
 		<th>Treasurer</th>
@@ -45,7 +45,7 @@ minutes][minutes].
 		<td><a href="mailto:jasmine@comssa.org.au">Jasmine Quek</a></td>
 	</tr>
 	<tr>
-		<td><a href="mailto:luke@comssa.org.au">Luke Mercuri</a></td>
+		<td><a href="mailto:baron@comssa.org.au">Brad Schoone</a></td>
 	</tr>
 </table>
 
