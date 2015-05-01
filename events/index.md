@@ -5,8 +5,10 @@ title: Event calendar
 
 The next meeting will be in the ground floor of the Engineering
 Pavilion (215.100) at 6:00PM on Wednesday, 6th April.
+
 If you have any proposed points of order you'd like discussed at the next meeting feel free to 
 [email][listemail] in your topics.
+
 Catch up on previous meetings by reading the [meeting minutes][minutes].
 
 [listemail]: mailto:club@comssa.org.au
