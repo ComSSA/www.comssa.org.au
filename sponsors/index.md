@@ -6,10 +6,10 @@ title: ComSSA's Sponsors
 As a club, we are lucky enough to have these _amazing_ sponsors who are generous 
 enough to supply our member base with discounts on purchases:
 
-  * [Altronics] at the University of Western Australia
-  * [Tactics] at Edith Cowan University
-  * [Tokyo Underground] at Murdoch University
-  * [Quality Comics] 
+  * [Altronics] Build It Yourself Electronics Centre
+  * [Tactics] Fantasy & Wargaming Specialists
+  * [Tokyo Underground] Comic Book, Toy and Collectible Store
+  * [Quality Comics]  Comic Book Store
 
 To Receive a discount at one of our sponsors, just flash your ComSSA membership 
 sticker on your student card at the register. 
