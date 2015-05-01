@@ -27,4 +27,4 @@ How cool is that?
 
 ## Are you buying more cues?
 
-Maybe.
+More often than we'd like but, hey...

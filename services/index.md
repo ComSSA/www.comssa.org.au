@@ -33,7 +33,11 @@ Microsoft software.
 
 Members are eligible to receive a free shell account on our Linux servers to
 run mission-critical applications like <code>cmatrix</code> and
-<code>cowsay</code>, send and receive email, and host simple websites.
+<code>cowsay</code>, send and receive email, and host simple websites. If you 
+wish to have an accout setup, send us an [email][listemail] expressing interest 
+and we'll get you all set up.
+
+[listemail]: mailto:club@comssa.org.au
 
 ## Unit materials, iLectures, and past exams
 
