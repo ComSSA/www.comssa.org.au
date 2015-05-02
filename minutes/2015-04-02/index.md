@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Minutes for 2015-01-04
+title: Minutes for 2015-04-02
 ---
 
 ## Venue: 215.100
