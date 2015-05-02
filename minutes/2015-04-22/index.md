@@ -7,10 +7,6 @@ title: Minutes for 2015-04-22
 
 ## Start: 6:02
 
-## Expected Finish: 7:00PM
-
-## Finishing No Later Than: 8:00PM
-
 ## Attendance
 
 ### Committee
