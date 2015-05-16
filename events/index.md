@@ -3,13 +3,13 @@ layout: default
 title: Event calendar
 ---
 
-[comment]: <> The next meeting will be in the ground floor of the Engineering
-[comment]: <> Pavilion (215.100) at 6:00PM on Wednesday, 6th April.
+The next meeting will be in room 216, Building 314
+at 5:00PM on Thursday, 21st May.
 
-[comment]: <> If you have any proposed points of order you'd like discussed at the next meeting feel free to 
-[comment]: <> [email][listemail] in your topics.
+If you have any proposed points of order you'd like discussed at the next meeting feel free to 
+[email][listemail] in your topics.
 
-[comment]: <> Catch up on previous meetings by reading the [meeting minutes][minutes].
+Catch up on previous meetings by reading the [meeting minutes][minutes].
 
 [listemail]: mailto:club@comssa.org.au
 [minutes]: /minutes/
