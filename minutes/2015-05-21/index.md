@@ -12,39 +12,43 @@ title: Agenda for 2015-05-21
 ## Start: 5:00PM 
 
 ## Attendance 
+
 ### Committee 
-* people 
+  * people 
 
 ### Guests 
-* people 
+  * people 
 
 ### Apologies 
-* people 
+  * people 
 
 ## Old Minutes 
-* Vote to accept/ammend 
-* Other notes if neccesssary 
+  * Vote to accept/ammend 
+  * Other notes if neccesssary 
 
 ## Treasury Report 
-* Current Treasury 
+  * Current Treasury 
 
 ## Old Action Items 
-
+  * People were meant to do things
 
 ## Past Events 
-
+  * Haven't held any
 
 ## Future Events 
+
 ### LAN
   * Esky/Drinks
   * EMAS involvement
 
 ### Google IO
+  * Anything left to do?
 
 ### Proposed Future events
   * ComSSA plays with bigger balls, lets go bowling (Adam)
 
 ## Committee Handover 
+
 ### Jasmine resignation 
   * Need to collect key from jasmine 
 
@@ -60,4 +64,4 @@ title: Agenda for 2015-05-21
 ## New Action Items 
   * Things
 
-## Meeting Finish: #:##PM 
+## Meeting Finish: Estimated 1.5 hours 
