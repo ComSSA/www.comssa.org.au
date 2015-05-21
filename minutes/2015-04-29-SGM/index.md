@@ -11,11 +11,9 @@ title: Minutes for SGM 2015-04-29
   * Question asked as to a definition of Change 1
     * delan explains Quorum provides safeguard for simple and absolute majority
   * Kicking someone out -> Quorum is met ->
-    * Absolute majority is used for most critical decisions, otherwise
-a minority can steamroll votes and get things through.
+    * Absolute majority is used for most critical decisions, otherwise a minority can steamroll votes and get things through.
   * Issues on having 0 OCMs
-      * Cleared up due to misunderstanding in the way that committee
-can be kicked out.
+    * Cleared up due to misunderstanding in the way that committee can be kicked out.
 
 ##Constitution Changes
 
@@ -42,8 +40,7 @@ can be kicked out.
   * This could be exploitable
   * Delan raises the point that it would be a diservice for committee
 to put the price too high as nobody would sign up
-  * Callum discusses that the committe, even without members, can
-embezzle assets and money from the club.
+  * Callum discusses that the committe, even without members, can embezzle assets and money from the club.
 
 ####[Ammendment][30e0426] proposed to prevent sharp increases
   * Vote to accept ammendment
@@ -66,8 +63,7 @@ embezzle assets and money from the club.
 ###[Change 7][794dd91]: Removal of fulltime study requirement for committee role
   * Concern raised about availability of committee members on campus
 
-####[Amendment][72d182d] proposed to prevent poor committee
-representation on campus
+####[Amendment][72d182d] proposed to prevent poor committee representation on campus
   * 23 - 2 - 3
   * Motion carries
 
@@ -78,15 +74,12 @@ representation on campus
 [794dd91]: https://github.com/ComSSA/misc/commit/794dd9170fcde86b571bac319332943e097a0a7d
 [72d182d]: https://github.com/ComSSA/misc/commit/72d182dbe30c76b0911189c80ce8367ae4336807
 
-###[Change 14][0b261d8]: Modification to how members of committee are
-stripped of roles
+###[Change 14][0b261d8]: Modification to how members of committee are stripped of roles
   * Concerns raised that committee member in question won't be able to
 rebut acusations
   * members also think this can be abused
 
-####[Ammendment][d5f6c91] proposed that a Simple Majority vote must be
-held in order to decide whether to eject a committee member during
-procedings
+####[Ammendment][d5f6c91] proposed that a Simple Majority vote must be held in order to decide whether to eject a committee member during procedings
   * Vote to accept ammendment
   * 20 - 4 - 4
   * Motion carries
@@ -111,8 +104,7 @@ procedings
 
     * 18 - 5 - 2
     * Motion carries
-    * Note: no 'Change 5' exists, clerical error was made in
-enumeration of changes on github
+    * Note: no 'Change 5' exists, clerical error was made in enumeration of changes on github
 
 [be11a21]: https://github.com/ComSSA/misc/commit/be11a2194456cffab7fd24a72fa626b74c061ab7
 [a7c3e7d]: https://github.com/ComSSA/misc/commit/a7c3e7d507446131aeaa92d327136c31a65d9578

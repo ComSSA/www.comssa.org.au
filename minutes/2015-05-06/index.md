@@ -32,7 +32,6 @@ title: Minutes for 2015-05-06
   * 6:0:0
 
 ## Treasury Report 
-
   * Pool was really good, our second best this year, $305 
   * Outdoor Activities at Curtin payments happened this treasury, even though it occured during the last treasury cycle
   * The Pot Black event cost $114
@@ -42,7 +41,6 @@ title: Minutes for 2015-05-06
     * Copy exists in the Google Drive now 
 
 ## Old Action Items 
-
   * Adam: do posters for SGM 
     * Done
   * Adam: Talk to hannes about Glenn Butcher 
@@ -62,7 +60,7 @@ title: Minutes for 2015-05-06
   * Josh: Send out emails to employers thanking them for the TFTI 
     * Done
   * Kye: talk to room bookings, book us an SGM 
-  	* Done
+    * Done
   * Kye: Kye to talk to UCC further about PMS 
     * Done
     * Adam and Nathanial taking over now that Kye has left
@@ -118,16 +116,16 @@ title: Minutes for 2015-05-06
     * Adam investigating prices for some secret hardware for a secret competition in the Console Room
 
 
-## Committee Handover 
-* 215.104 Group exists
-* Delan to add new exec to this group
+## Committee Handover
+  * 215.104 Group exists
+  * Delan to add new exec to this group
 
 ### OCMs 
-* We currently have an invalid number of OCM's
-* We must always have an odd number, we currently have two
-* Need to get one or three more
-* Luke will post an expression of interest to facebook
-* Based on the expressions of interest we'll decide if we want to take on one extra person or three
+  * We currently have an invalid number of OCM's
+  * We must always have an odd number, we currently have two
+  * Need to get one or three more
+  * Luke will post an expression of interest to facebook
+  * Based on the expressions of interest we'll decide if we want to take on one extra person or three
 
 ### Office Card Access 
   * Sean (Security, Best guy ever) is back
@@ -188,15 +186,15 @@ title: Minutes for 2015-05-06
   * With the amount of committee members tutoring first year units, talk to mark
   * Teach OOPD to people in this critical time 
     * Class design., etc
-	* Book out a hall/collab room
-	* Walkthrough a past exam
-	* Brad talking to Mark about it
-	* Possibly doing se110 too
-	* Their OOPD assignment is due in 4 weeks
-	* Brad talking to unipass dude
-	* Monday, 18th at 5:00PM
-	* Workshop, not a lecture hall, 
-	* Brad booking
+  * Book out a hall/collab room
+  * Walkthrough a past exam
+  * Brad talking to Mark about it
+  * Possibly doing se110 too
+  * Their OOPD assignment is due in 4 weeks
+  * Brad talking to unipass dude
+  * Monday, 18th at 5:00PM
+  * Workshop, not a lecture hall, 
+  * Brad booking
 
 ## Pool table maintenance 
   * Tips are running low 
