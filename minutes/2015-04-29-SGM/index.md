@@ -18,6 +18,7 @@ a minority can steamroll votes and get things through.
 can be kicked out.
 
 ##Constitution Changes
+
 ###[Change 0][a785a9d]: Spelling and grammar ammendments
   * 20 - 2 - 0
   * Motion carries
