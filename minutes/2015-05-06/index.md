@@ -8,6 +8,7 @@ title: Minutes for 2015-05-06
 ## Start: 6:02 p.m. 
 
 ## Attendance 
+
 ### Committee 
   * Luke Mercuri
   * Jacob Chapman
@@ -16,6 +17,7 @@ title: Minutes for 2015-05-06
   * Nathaniel Roach
   * Bradley Schoone
   * Whole committee present
+
 ### Guests 
   * Delan Azabani 
 
@@ -75,6 +77,7 @@ title: Minutes for 2015-05-06
     * Done
 
 ## Past Events 
+
 ### SGM 
   * In future we'll try push block changes earlier
   * We essentially ran out of time, everything got finished however
@@ -94,6 +97,7 @@ title: Minutes for 2015-05-06
     * People are busy at different times
 
 ## Future Events 
+
 ### Google I/O Extended 
   * Beanbags sorted through guild
   * Popcorn machine might be a thing
@@ -140,6 +144,7 @@ title: Minutes for 2015-05-06
     * The 3 new Signatories
 
 ## Residual Items 
+
 ### Committee Shirts 
   * SGM is over, these can finally be ordered (Impending OCM Selection)
   * Getting Jasmine a shirt just like Kye and Delan 
