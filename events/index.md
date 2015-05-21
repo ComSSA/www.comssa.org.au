@@ -3,13 +3,13 @@ layout: default
 title: Event calendar
 ---
 
-The next meeting will be in room 216, Building 314
-at 5:00PM on Thursday, 21st May.
+[comment]: <> The next meeting will be in room 216, Building 314
+[comment]: <> at 5:00PM on Thursday, 21st May.
 
-If you have any proposed points of order you'd like discussed at the next meeting feel free to 
-[email][listemail] in your topics.
+[comment]: <> If you have any proposed points of order you'd like discussed at the next meeting feel free to 
+[comment]: <> [email][listemail] in your topics.
 
-Catch up on previous meetings by reading the [meeting minutes][minutes].
+[comment]: <> Catch up on previous meetings by reading the [meeting minutes][minutes].
 
 [listemail]: mailto:club@comssa.org.au
 [minutes]: /minutes/
