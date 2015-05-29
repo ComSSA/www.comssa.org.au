@@ -3,6 +3,10 @@ layout: default
 title: Agenda for 2015-05-21
 ---
 
+## When do the minutes come out?
+
+  * The minutes for a meeting are released pending committee approval at the following meeting
+
 ## What: ComSSA Meeting 
 
 ## Venue: 314.216 
