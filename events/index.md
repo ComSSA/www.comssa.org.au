@@ -26,7 +26,7 @@ style=" border-width:0 " width="640" height="480" frameborder="0" scrolling="no"
 
 ## Upcoming events on Facebook
 
-  * [Google I/O Extended Curtin & UWA][googleio]: Thursday, 28th – Friday, 29th 
-May
+June
+[ComSSA End-of-Semester LAN Party S01E02 - Electric Boogaloo][lan2]
 
-[googleio]: https://www.facebook.com/events/526482877492999/
+[lan2]: https://www.facebook.com/events/495989477215165/
