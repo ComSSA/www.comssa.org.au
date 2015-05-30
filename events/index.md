@@ -26,7 +26,7 @@ style=" border-width:0 " width="640" height="480" frameborder="0" scrolling="no"
 
 ## Upcoming events on Facebook
 
-June
-[ComSSA End-of-Semester LAN Party S01E02 - Electric Boogaloo][lan2]
+  * [ComSSA End-of-Semester LAN Party S01E02][lan2]: Friday, 26th - Sunday, 28th 
+May
 
 [lan2]: https://www.facebook.com/events/495989477215165/
