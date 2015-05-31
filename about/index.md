@@ -42,10 +42,14 @@ minutes][minutes].
 	</tr>
 	<tr>
 		<td><a href="mailto:nathaniel@comssa.org.au">Nathaniel Roach</a></td>
-		<td><a href="mailto:jasmine@comssa.org.au">Jasmine Quek</a></td>
+		<td><a href="mailto:baron@comssa.org.au">Brad Schoone</a></td>
 	</tr>
 	<tr>
-		<td><a href="mailto:baron@comssa.org.au">Brad Schoone</a></td>
+		<td><a href="mailto:none.yet@comssa.invalid">Sandro Stikić</a></td>
+		<td><a href="mailto:none.yet@comssa.invalid">Jordan Chou</a></td>
+	</tr>
+	<tr>
+		<td><a href="mailto:none.yet@comssa.invalid">Darryl Chng</a></td>
 	</tr>
 </table>
 
