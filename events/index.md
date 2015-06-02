@@ -4,7 +4,7 @@ title: Event calendar
 ---
 
 The next meeting will be in room 216, Building 314
-at 6:00PM on Thursday, 4th of June.
+at 4:00PM on Thursday, 4th of June.
 
 If you have any proposed points of order you'd like discussed at the next meeting feel free to 
 [email][listemail] in your topics.
