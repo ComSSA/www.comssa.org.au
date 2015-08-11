@@ -104,7 +104,7 @@ have the sleeping room for a reason
 
 ## Future Events
 
-###Guild Day
+### Guild Day
   * First Wednesday of the semester (5th of Aug).
   * We should be there.
   * Emailed Bec and filled out the application, so we are all booked in.
@@ -169,7 +169,7 @@ have the sleeping room for a reason
   * Catering?
     * We can have catering if we do a group booking with them.
 
-###Hack Night
+### Hack Night
   * Luke and Bages suggest building a Hackintosh. 
   * We would need to look at hardware, and spend some money on that.
   * So Luke and Badges will look into the parts and a date for this to happen.
@@ -191,7 +191,7 @@ have the sleeping room for a reason
     * We replied to some emails.
     * Should do it again.
     
-##PMS
+## PMS
 * PMS is somewhat setup, we need to create VMs manually at the moment, someone needs to write scripts to do this automatically.
   * We need to also set up a shell VM on the metal. 
   * IPTables needs to be done, but Badges doesnt know the magic of IPTables, so someone else will have to set it up.
