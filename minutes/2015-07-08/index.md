@@ -88,19 +88,17 @@ students)
 ### Bagdes left at 3:08pm, Inquorate, waiting til he returns
 
 ### Bagdes returns at 3:09pm, Meeting continues
-    * We also need to make sure that speakers are not brought to the LAN, and make sure people are aware of it.
-    * Luke also would like the rules to be printed and put somewhere in the LAN, on the event page and the email
-    * We also need to make sure people use ONE DESK and ONE MONITOR. No paying for multiple tickets for multiple spaces. This needs to be reinforced for next LAN. As this can discourage attendees from attending, and can limit our capacity.
-    * The rules do allow for attendees to talk to comittee if they need more than one table. This should also be reinforced. 
+  * We also need to make sure that speakers are not brought to the LAN, and make sure people are aware of it.
+  * Luke also would like the rules to be printed and put somewhere in the LAN, on the event page and the email
+  * We also need to make sure people use ONE DESK and ONE MONITOR. No paying for multiple tickets for multiple spaces. This needs to be reinforced for next LAN. As this can discourage attendees from attending, and can limit our capacity.
+  * The rules do allow for attendees to talk to comittee if they need more than one table. This should also be reinforced. 
   * Need to stay on top of people sleeping in the console room, we
-have the sleeping room for a reason
-    * 
+  have the sleeping room for a reason
   * What did we think of the competitions?
     * Was good, should do again
     *  We need to make sure we change the Halo map for next time.
     * Delan also need to make it a map cycle.
-    * Luke suggests making it a VM, so that we can manage it more easily. Make sure that its on a commitee PC because of host advantage.
-    * 
+    * Luke suggests making it a VM, so that we can manage it more easily. Make sure that its on a commitee PC because of host advantage. 
 
 ## Future Events
 
