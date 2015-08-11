@@ -3,7 +3,6 @@ layout: default
 title: Minutes for 2015-06-04
 ---
 
-## What: ComSSA Meeting
 
 ## Venue: 314
 

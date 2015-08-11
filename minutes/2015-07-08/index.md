@@ -3,8 +3,6 @@ layout: default
 title: Agenda for 2015-07-08
 ---
 
-## What: ComSSA Meeting
-
 ## Venue: 314:221
 
 ## Date: 2015-07-08
@@ -134,29 +132,29 @@ have the sleeping room for a reason
 
 ### Quiz Night
   * So we still need a new night, and we need to contact the tavern
-  	*  We still need to confirm that the date still stands with the Tav
-  	* If we get time after this, we will go and talk the Tav
-  	*  Jacob said that we may not want to run it on this date because EMAS will be holding an event
-  	* It was decided that we wont move the event time, as we doubt we will lose attendence because of it, and we wont get another decent rebooking
+    *  We still need to confirm that the date still stands with the Tav
+    * If we get time after this, we will go and talk the Tav
+    *  Jacob said that we may not want to run it on this date because EMAS will be holding an event
+    * It was decided that we wont move the event time, as we doubt we will lose attendence because of it, and we wont get another decent rebooking
   * We need to start thinking of topics and questions
-  	* There is a wiki with some stuff on it
-  	* Delan needs to be dropped from the mailing list so that his night isnt ruined by knowing the answers.
-  	* Josh suggests that we have a Trello board for the Quiz Night, then we can all collab the questions and topic and vote on the 10 or so best. That way, we dont have to allocate one person to one topic.
-  	* Everyone agrees
-  	### Josh Leaves 3:40pm
-  	* We should use Prezzi or something for the preso
-  	* Suggestion is that Badges be the MC for the night
-  	* Luke says we can sort it out later, its not a pressing issue right now.
-  	### Josh returns at 3:42pm
-  	* We also still have a grant to buy food for the night.
-  	* We need to make sure we know the table/chair count so we know how many tickets we sell.
+    * There is a wiki with some stuff on it
+    * Delan needs to be dropped from the mailing list so that his night isnt ruined by knowing the answers.
+    * Josh suggests that we have a Trello board for the Quiz Night, then we can all collab the questions and topic and vote on the 10 or so best. That way, we dont have to allocate one person to one topic.
+    * Everyone agrees
+  	
+### Josh Leaves 3:40pm
+  * We should use Prezzi or something for the preso
+  * Suggestion is that Badges be the MC for the night
+  * Luke says we can sort it out later, its not a pressing issue right now.
+
+### Josh returns at 3:42pm
+  * We also still have a grant to buy food for the night.
+  * We need to make sure we know the table/chair count so we know how many tickets we sell.
 
 ### Adventure World
-  * For those who don't know, this is handover for the new committee
-when that eventually happens
+  * For those who don't know, this is handover for the new committee when that eventually happens
   * Its also discounted something insane
-  * Need to confirm with guild what discounts are happening, usually
-both ComSSA and Guild both put towards subsidizing tickets
+  * Need to confirm with guild what discounts are happening, usually both ComSSA and Guild both put towards subsidizing tickets
   * What date?
     * The date is up in the air, as exams are now held on the Fridays of exam weeks
     * Josh suggests we just risk it, and Brad suggests we do it on the Friday of the final week of uni.
@@ -167,7 +165,6 @@ both ComSSA and Guild both put towards subsidizing tickets
     * Brad will be in charge of this.
   * Catering?
     * We can have catering if we do a group booking with them.
-  *
 
 ###Hack Night
   * Luke and Bages suggest building a Hackintosh. 
