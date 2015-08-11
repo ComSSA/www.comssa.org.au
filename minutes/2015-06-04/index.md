@@ -87,6 +87,7 @@ title: Minutes for 2015-06-04
     * Darryl and Sandro on subcommittee
 
 ## Past Events
+
 ### Google IO
   * How was it?
     * It was good
@@ -179,6 +180,7 @@ title: Minutes for 2015-06-04
  * Refelting in the break
 
 ## Correspondence
+
 ### Engineering ODay Fact Find Fair
   * Emailed to the lists by Amanda Sullivan, EFY Teaching Support Coordinator, subject titled as such
   * This should be visible in the email lists (30/july/2015)

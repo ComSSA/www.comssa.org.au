@@ -85,7 +85,7 @@ students)
     * Luke would like someone to write a script to automate VLC playlist. With somesort of voting list. Using DC's hash XML and Youtube somehow.
     * Brad and Badges said they will play around and look at it, sound fun.
 
-###Bagdes left at 3:08pm, Inquorate, waiting til he returns
+### Bagdes left at 3:08pm, Inquorate, waiting til he returns
 
 ### Bagdes returns at 3:09pm, Meeting continues
     * We also need to make sure that speakers are not brought to the LAN, and make sure people are aware of it.
