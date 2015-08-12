@@ -3,8 +3,7 @@ layout: default
 title: Event calendar
 ---
 
-The next meeting will be in room 216, Building 314
-at 4:00PM on Thursday, 4th of June.
+The next meeting will be in 314.221 at 6pm on Thursday, 20th of August.
 
 If you have any proposed points of order you'd like discussed at the next meeting feel free to 
 [email][listemail] in your topics.
@@ -25,8 +24,3 @@ style=" border-width:0 " width="640" height="480" frameborder="0" scrolling="no"
 [HTML]: https://www.google.com/calendar/embed?src=azabani.com_plkldqk6cqm9k18kicouvq0h10%40group.calendar.google.com&ctz=Australia/Perth
 
 ## Upcoming events on Facebook
-
-  * [ComSSA End-of-Semester LAN Party S01E02][lan2]: Friday, 26th - Sunday, 28th 
-May
-
-[lan2]: https://www.facebook.com/events/495989477215165/
