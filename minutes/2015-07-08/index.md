@@ -168,7 +168,7 @@ students)
     * We can have catering if we do a group booking with them.
 
 ### Hack Night
-  * Luke and Bages suggest building a Hackintosh. 
+  * Luke and Badges suggest building a Hackintosh. 
   * We would need to look at hardware, and spend some money on that.
   * So Luke and Badges will look into the parts and a date for this to happen.
   
