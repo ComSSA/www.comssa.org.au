@@ -22,34 +22,34 @@ minutes][minutes].
 
 <table class="horiz_tbl">
 	<tr>
-		<th>President</th>
-		<td><a href="mailto:president@comssa.org.au">Luke Mercuri</a></td>
+		<th><a href="mailto:president@comssa.org.au">President</a></th>
+		<td><a href="mailto:delan@comssa.org.au">Delan Azabani</a></td>
 	</tr>
 	<tr>
-		<th>Vice President</th>
-		<td><a href="mailto:vp@comssa.org.au">Jacob Chapman</a></td>
+		<th><a href="mailto:vp@comssa.org.au">Vice President</a></th>
+		<td><a href="mailto:jakeypoos@comssa.org.au">Jacob Chapman</a></td>
 	</tr>
 	<tr>
-		<th>Treasurer</th>
-		<td><a href="mailto:money@comssa.org.au">Josh Batchelor</a></td>
+		<th><a href="mailto:treasurer@comssa.org.au">Treasurer</a></th>
+		<td><a href="mailto:darryl@comssa.org.au">Darryl Ch'ng</a></td>
 	</tr>
 	<tr>
-		<th>Secretary</th>
-		<td><a href="mailto:secretary@comssa.org.au">Adam Parsons</a></td>
+		<th><a href="mailto:secretary@comssa.org.au">Secretary</a></th>
+		<td><a href="mailto:jordan@comssa.org.au">Jordan Chou</a></td>
 	</tr>
 	<tr>
 		<th colspan="2">Ordinary committee members</th>
 	</tr>
 	<tr>
-		<td><a href="mailto:nathaniel@comssa.org.au">Nathaniel Roach</a></td>
-		<td><a href="mailto:baron@comssa.org.au">Brad Schoone</a></td>
-	</tr>
+		<td><a href="mailto:badges@comssa.org.au">Adam Parsons</a></td>
+		<td><a href="mailto:connor@comssa.org.au">Connor Beardsmore</a></td>
 	<tr>
-		<td><a href="mailto:none.yet@comssa.invalid">Sandro Stikić</a></td>
-		<td><a href="mailto:none.yet@comssa.invalid">Jordan Chou</a></td>
 	</tr>
+		<td><a href="mailto:james@comssa.org.au">James Borrett</a></td>
+		<td><a href="mailto:jrs@comssa.org.au">Jordan Sinclair</a></td>
 	<tr>
-		<td><a href="mailto:none.yet@comssa.invalid">Darryl Chng</a></td>
+	</tr>
+		<td><a href="mailto:nroach44@comssa.org.au">Nathaniel Roach</a></td>
 	</tr>
 </table>
 
