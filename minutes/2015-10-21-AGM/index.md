@@ -7,6 +7,25 @@ title: Minutes for the 2015-10-21 AGM
 
 ## Start: 12:00 p.m. (nominal)
 
+## Attendance
+
+  * Jacob Chapman
+  * Josh Batchelor
+  * Adam Parsons
+  * Brad Schoone
+  * Darryl Ch'ng
+  * Jordan Chou
+  * Nathaniel Roach
+  * Sandro Stikić
+  * Delan Azabani
+  * Connor Beardsmore
+  * James Borrett
+  * Jordan Sinclair
+
+## Apologies
+
+  * Luke Mercuri
+
 ## Ratification of the constitution
 
   * Section 10.5 of the constituion is proposed to be changed
