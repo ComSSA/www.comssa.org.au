@@ -49,6 +49,9 @@ a {
 i, i *, em, em * {
 	font-style: italic;
 }
+b, b *, strong, strong * {
+	font-weight: bold;
+}
 td, th {
 	padding: 0.25em 1em;
 }
