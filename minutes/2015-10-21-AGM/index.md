@@ -10,11 +10,11 @@ title: Minutes for the 2015-10-21 AGM
 ## Ratification of the constitution
 
   * Section 10.5 of the constituion is proposed to be changed
-    * from: Quorum for the AGM shall be twenty (20) Members or an Absolute Majority of the listed Members, whichever is fewer.
-    * to: Quorum for the AGM shall be fifteen (15) Members or an Absolute Majority of the listed Members, whichever is fewer.
+    * from: Quorum for the AGM shall be **twenty (20)** Members or an Absolute Majority of the listed Members, whichever is fewer.
+    * to: Quorum for the AGM shall be **fifteen (15)** Members or an Absolute Majority of the listed Members, whichever is fewer.
   * Section 11.4 of the constituion is proposed to be changed
-    * from: Quorum for an SGM shall be twenty (20) Members or an Absolute Majority of the current membership, whichever is fewer.
-    * to: Quorum for an SGM shall be fifteen (15) Members or an Absolute Majority of the current membership, whichever is fewer.
+    * from: Quorum for an SGM shall be **twenty (20)** Members or an Absolute Majority of the current membership, whichever is fewer.
+    * to: Quorum for an SGM shall be **fifteen (15)** Members or an Absolute Majority of the current membership, whichever is fewer.
   * These changes were approved together
   * The vote count was 22:2:0 (yes, no, abstain)
 
