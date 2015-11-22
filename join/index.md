@@ -38,4 +38,4 @@ your Curtin Student Guild membership status, so please use this to let us know
 if you are a Guild member. Please do not mark yourself as paying with a voucher
 — this will *not* lessen any online membership fees.
 
-[tidy]: https://comssa.tidyclub.com/memberships/
+[tidy]: https://comssa.tidyclub.com/public/memberships/new
