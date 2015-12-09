@@ -22,6 +22,9 @@ minutes][minutes].
 
 <table class="horiz_tbl">
 	<tr>
+		<th colspan="2">Executive Committee Members</th>
+	</tr>
+	<tr>
 		<th><a href="mailto:president@comssa.org.au">President</a></th>
 		<td><a href="mailto:delan@comssa.org.au">Delan Azabani</a></td>
 	</tr>
@@ -38,7 +41,10 @@ minutes][minutes].
 		<td><a href="mailto:jordan@comssa.org.au">Jordan Chou</a></td>
 	</tr>
 	<tr>
-		<th colspan="2">Ordinary committee members</th>
+		<th colspan="2"></th>
+	</tr>
+	<tr>
+		<th colspan="2">Ordinary Committee Members</th>
 	</tr>
 	<tr>
 		<td><a href="mailto:badges@comssa.org.au">Adam Parsons</a></td>
