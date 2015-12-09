@@ -11,7 +11,7 @@ enough to supply our member base with discounts on purchases:
   * [Tokyo Underground] Comic Book, Toy and Collectible Store
   * [Quality Comics]  Comic Book Store
 
-To Receive a discount at one of our sponsors, just flash your ComSSA membership 
+To receive a discount at one of our sponsors, just flash your ComSSA membership 
 sticker on your student card at the register. 
 
 [Altronics]: http://www.altronics.com.au/

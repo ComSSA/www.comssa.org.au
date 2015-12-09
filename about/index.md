@@ -46,11 +46,8 @@ minutes][minutes].
 	<tr>
 	</tr>
 		<td><a href="mailto:james@comssa.org.au">James Borrett</a></td>
-		<td><a href="mailto:jrs@comssa.org.au">Jordan Sinclair</a></td>
-	<tr>
-	</tr>
 		<td><a href="mailto:nroach44@comssa.org.au">Nathaniel Roach</a></td>
-	</tr>
+	<tr>
 </table>
 
 ## Affiliates
