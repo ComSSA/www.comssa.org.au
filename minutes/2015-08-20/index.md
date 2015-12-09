@@ -23,9 +23,8 @@ title: Minutes for 2015-08-20
   * Delan Azabani 
 
 ## Minutes
-
   * Good
-  	 
+
 ## Treasury Report
 
   * "it's a treasury" - Josh, 2015
@@ -39,16 +38,14 @@ title: Minutes for 2015-08-20
 ## Old Action Items
 
   * Nothing worth following up
- 
+
 ## First Aid Training
 
   * Brad needs to get paid
   * Jacob, Adam, Jordan, Darryl want to do it
 
-## Past Events
- 
+## Past Events 
 ### Analogue Games Night
-
   * Was good lets do it again
   * Do quicker games in future , long games alienate others
   * Everybody happy
@@ -59,8 +56,7 @@ title: Minutes for 2015-08-20
   * Should be here two weeks from now
   * Everyone owes $20
 
-## Future Events
- 
+## Future Events 
 ### Vidya Games Night
 
   * Low key event
@@ -69,7 +65,7 @@ title: Minutes for 2015-08-20
   * Brad needs to bring the controller back in
   * We have the bottom floor of the Pav
   * Its this Wednesday, 26/8
-	 
+	
 ### Hack Night: Sandro and Richard edition
 
   * Sanrdo is organising a hack night with Richard
@@ -156,7 +152,6 @@ title: Minutes for 2015-08-20
   * Adam: Document beepboop and set it up for Hack Night
   * Nathaniel/Adam: PMS General
   * Delan asking somebody something about TFTI
-
   * Unallocated
     * Print posters for LAN
     * Steam Cards for LAN
