@@ -10,7 +10,7 @@ title: Minutes for 2015-08-20
 ## Date: Thursday 2015-08-20
  
 ## Start: 6:06PM
- 
+
 ## Attendance
 
 ### Committee
@@ -21,7 +21,7 @@ title: Minutes for 2015-08-20
   * Tim Mcdonald
   * Delan Azabani 
 
-## Minutes
+## Old Minutes
   * Good
 
 ## Treasury Report
@@ -40,8 +40,10 @@ title: Minutes for 2015-08-20
   * Brad needs to get paid
   * Jacob, Adam, Jordan, Darryl want to do it
 
-## Past Events 
-### Analogue Games Night
+## Past Events
+
+###Analogue Games Night
+
   * Was good lets do it again
   * Do quicker games in future , long games alienate others
   * Everybody happy
@@ -51,8 +53,10 @@ title: Minutes for 2015-08-20
   * Should be here two weeks from now
   * Everyone owes $20
 
-## Future Events 
-### Vidya Games Night
+## Future Events
+
+###Vidya Games Night
+
   * Low key event
   * Might just get some consoles out for a few hours, some people on committee to bring some
   * Emulator-Export can be plugged into the projector
@@ -104,7 +108,7 @@ title: Minutes for 2015-08-20
   * Not much is needed to organise this one
   * Need to get rid of prizes we already have, but also get the usual steam cards
   * Adam missing both Friday night and Saturday, Brad missing Friday night (We're around for setup though)
-  * Setup starts crack of noon, 12PM, and we are letting people in at about 3PM (HOPEFULLY)
+  * Setup starts crack of noon, 12PM, and we are letting people in at about 3PM
   * If someone wants to arrange an esky again or ask guild, we can do drinks again, not a huge priority though
 
 ## Altronics

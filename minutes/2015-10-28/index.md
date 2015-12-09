@@ -73,9 +73,8 @@ title: Minutes for 2015-10-28
 	  * Jmo not available
 	  * Also right before Jbatch's exam, hes also away the whole first exam week
 	  * 10am - 12pm, 22nd November
-
   * DSA
-  	* 11am - 1pm, 21st November
+	  * 11am - 1pm, 21st November
 
 ## SEP Presentations Award
   * Need to buy more pens

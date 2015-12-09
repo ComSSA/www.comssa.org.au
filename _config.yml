@@ -1,5 +1,3 @@
 safe: false
 include: [".well-known"]
 markdown: kramdown
-gems:
-  - jekyll-redirect-from

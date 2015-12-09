@@ -45,12 +45,14 @@ title: Minutes for 2015-11-14
   * Rest is online stuff - trello, old list
 
 ## Old Action Items
+
 ###Pool Table
   * Was delegated to Nathaniel
   * Have a grace period for action items where they get delegated to someone else if not done
   * Connor could do it
 
 ##Past Events
+
 ###Adventure World
   * Great, should do again
   * Didn't rain
@@ -69,6 +71,7 @@ title: Minutes for 2015-11-14
   * Darryl: Could get sponsors for specific categories: Comics for Comics category
 
 ##Future Events
+
 ###Volunteering hours for study sessions
   * No hours, Mihai might take volunteers out for food
   * Some tutors may be really busy
@@ -135,6 +138,7 @@ title: Minutes for 2015-11-14
   * He could give us a room to do the training in and come in and help
 
 ##Other
+
 ###Communication
 * Jordan S.: List is kind of shit
 * IRC: Less convenient reading scroll back
@@ -174,6 +178,7 @@ title: Minutes for 2015-11-14
 * Just have as many as we need
 
 ## New Action Items
+
   * Darryl talks to Josh B. and get form 
   * Delan/Jordan C. handles minute situation, separate them
   * Delan look for old ballot from last AGM
