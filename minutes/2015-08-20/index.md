@@ -11,14 +11,13 @@ title: Minutes for 2015-08-20
  
 ## Start: 6:06PM
  
-## Attendance	
+## Attendance
 
 ### Committee
 
   * Everyone
 
 ### Guests
-
   * Tim Mcdonald
   * Delan Azabani 
 
@@ -26,21 +25,18 @@ title: Minutes for 2015-08-20
   * Good
 
 ## Treasury Report
-
   * "it's a treasury" - Josh, 2015
   * Couple of cycles rolled into one
   * Income $1449.92
-    * Pool was $623
+	  * Pool was $623
   * Expenditure 604.64
-    * Pool repair was $420
+     * Pool repair was $420
   * Discrep 0.85
 
 ## Old Action Items
-
   * Nothing worth following up
 
 ## First Aid Training
-
   * Brad needs to get paid
   * Jacob, Adam, Jordan, Darryl want to do it
 
@@ -51,14 +47,12 @@ title: Minutes for 2015-08-20
   * Everybody happy
 
 ## Shirts
-
   * Ordered on August 6
   * Should be here two weeks from now
   * Everyone owes $20
 
 ## Future Events 
 ### Vidya Games Night
-
   * Low key event
   * Might just get some consoles out for a few hours, some people on committee to bring some
   * Emulator-Export can be plugged into the projector
@@ -67,17 +61,16 @@ title: Minutes for 2015-08-20
   * Its this Wednesday, 26/8
 	
 ### Hack Night: Sandro and Richard edition
-
-  * Sanrdo is organising a hack night with Richard
+  * Sandro is organising a hack night with Richard
   * All the relevant information is on trello, some highlights:
   * There are 4 levels, ranging from easy to "inside job" level stuff
   * Networking 
-    * Needs two switches for some magic and air-gapping, going to need 
-    * one server will be routing from Curtin to rack-corp (beepboop probably)
+	  * Needs two switches for some magic and air-gapping, going to need 
+	  * one server will be routing from Curtin to rack-corp (beepboop probably)
   * Registration:
-    * Teams of up to 4
-	* Prizes a thing, need to be decided though
- 
+	  * Teams of up to 4
+	  * Prizes a thing, need to be decided though
+
 ### TFTI
   * James Massey from AFG good
   * Rob good to go, bringing someone from UWA maybe
@@ -86,7 +79,6 @@ title: Minutes for 2015-08-20
   * Mitchell Sullivan {someone was talking over this? Someone please fill the gap}
   * Delan asking {who?}
   * Date is currently 7th October
-   //{Seriously guys we need to chill on this talking over people thing, I had to ask Luke to clarify things at least three times here, still missed important details}
 
 ### Teach and Learn Night
   * Was going to happen on a Saturday after coderdojo
