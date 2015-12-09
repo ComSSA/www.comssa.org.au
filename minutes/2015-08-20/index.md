@@ -97,13 +97,8 @@ title: Minutes for 2015-08-20
   * Scratch that, we're changing the dates now, to the following Tuesday instead 
   * Brad handling OOPD
   * Josh handling UCP
-  // These names of people were thrown about
-	//OOPD: jmo, carmel, annesly, jonno, giany, timmyp (handled by brad)
-	//UCP: jmo, stefan, carmel, amy, jason brown, tilbrook, jono (handled by josh)
   * Second session is the next Saturday, DSA
   * Luke handling DSA
-  // Names thrown out 
-	//DSA: "giarny" {phonetic, how is his name spelt?}  jordan, mark, darnell
   * Mark only wants people who are tutoring the unit to teach during these sessions now, not just people who have taken the unit
   * Doing it 10am now, Tuesday after lan , 1st of September
   * A third event, just for OOPD will be run 3rd of October, being sorted at a closer meeting
@@ -112,30 +107,8 @@ title: Minutes for 2015-08-20
 ### Di Another Day (Smash Competition)
   * Runs during the upcoming LAN
   * Runs all weekend, but stops each night at 10pm
-  * Schedule of events can be found on their event page         
-
-  // Taking off the minutes before publishing publicaly, because reasons and things
-	brad to max: give us those forms
-	They do have plans, contingency plans, layouts
-	we’re saying 100 max
-	attendees should spread over the day, so capacity shouldn’t be too hard to manage
-	going to be moving people to outside areas if they aren’t playing
-	need to have a door person or a sign up
-	they have wristbands and have given lists of details for us
-	Tom thought it was meant to just be $600 not 50% of tickets
-	We were getting 50% of the door ticket prices, this has been debated between us and them
-	kye sending some emails to brad, but nothing helpful though, cheers bud
-	kye refusing to send personal conversations with the organiser that would give us a leg to stand on, cheers bud
-	looks like we just have to deal with $600, not the original 50% considering we have nothing in writing to work with
-	either way, its a nice $600 for nothing
-	apparently they paid a 300 bond months ago, josh trying to confirm/deny this
-	they have paid 600 two weeks ago, josh can confirm this
-	We’re going to security to talk to Sean and register both our events with him
-	Need to contact Amanda about the motorsport stuff in the way
-	Friday night Darryl will overwatch smash
-  //
-	
-
+  * Schedule of events can be found on their event page        	
+ 
 ### LAN         
   * LAN Three: Netflix and Chill edition
   * I'm so sorry for the title, last year Callum called this one "Happening status: It's happening"
@@ -151,7 +124,6 @@ title: Minutes for 2015-08-20
   * Nathaniel sorted the account out with them
   * No longer the "compro" account
   * Details in wiki
-//Again people spoke over him, so I got what I could here
 
 ## Delan asking things
   
@@ -164,7 +136,7 @@ title: Minutes for 2015-08-20
     * User gets given an account, they reprove enrolment each semester via enrolment advice
 
 ## PMS 
-	* Is back up
+* Is back up
   * We need to work on getting this finished
   * Nathaniel/Adam, just make decisions to get it up and going
 	* Sandro gonna help too
