@@ -43,11 +43,11 @@ minutes][minutes].
 	<tr>
 		<td><a href="mailto:badges@comssa.org.au">Adam Parsons</a></td>
 		<td><a href="mailto:connor@comssa.org.au">Connor Beardsmore</a></td>
-	<tr>
 	</tr>
+	<tr>
 		<td><a href="mailto:james@comssa.org.au">James Borrett</a></td>
 		<td><a href="mailto:nroach44@comssa.org.au">Nathaniel Roach</a></td>
-	<tr>
+	</tr>
 </table>
 
 ## Affiliates
