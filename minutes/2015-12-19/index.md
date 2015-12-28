@@ -35,9 +35,9 @@ title: Minutes for 2015-12-19
   * Opening balance: $3246.39
   * Income: $0.00
   * Expenditure: $598.02
-  	* Biggest was pool table mechanism $240.0
-  	* ethernet $88.0
-  	* AWS $73.34
+    * Biggest was pool table mechanism $240.0
+    * ethernet $88.0
+    * AWS $73.34
   * Expected closing: $2648.37
   * Actual Closing: $2648.37
   * Discrepency: $0.0
@@ -120,4 +120,5 @@ title: Minutes for 2015-12-19
 * Jordan adds ComSSA Cysca team task to TidyClub
 
 ## Next meeting: 2 weeks
+
 ## Meeting Finish: 1:00PM
