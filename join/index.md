@@ -16,7 +16,9 @@ well as special member pricing for our [events].
 You can become a member of ComSSA with either $10 or a Curtin Student Guild club
 membership voucher. Interested in joining? Here's how!
 
-## Talk to a committee member
+## In-Person
+
+Talk to a committee member in our office, located in the Engineering Pavilion (215.104) or 
 
 If you find yourself in the Engineering Pavilion or the New Technologies
 building, see one of our friendly [committee members][about], who will be happy
