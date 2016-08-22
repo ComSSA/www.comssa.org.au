@@ -30,7 +30,7 @@ minutes][minutes].
 	</tr>
 	<tr>
 		<th><a href="mailto:vp@comssa.org.au">Vice President</a></th>
-		<td><a href="mailto:jakeypoos@comssa.org.au">Jacob Chapman</a></td>
+		<td><a href="mailto:badges@comssa.org.au">Adam Parsons</a></td>
 	</tr>
 	<tr>
 		<th><a href="mailto:treasurer@comssa.org.au">Treasurer</a></th>
@@ -47,8 +47,8 @@ minutes][minutes].
 		<th colspan="2">Ordinary Committee Members</th>
 	</tr>
 	<tr>
-		<td><a href="mailto:badges@comssa.org.au">Adam Parsons</a></td>
-		<td><a href="mailto:connor@comssa.org.au">Connor Beardsmore</a></td>
+		<td><a href="mailto:sandro@comssa.org.au">Sandro Stikic"</a></td>
+		<td><a href="mailto:yib@comssa.org.au">Josh Yeo</a></td>
 	</tr>
 	<tr>
 		<td><a href="mailto:james@comssa.org.au">James Borrett</a></td>
