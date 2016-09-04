@@ -7,4 +7,5 @@ title: Revision sessions
 
 ### Test 1 (2016)
 
-Watch this space! Expect to see a video here by around 17:00.
+* Stream: https://www.youtube.com/watch?v=TFmyW2c_VOE
+* Chat: https://webirc.uniirc.com/?channels=UCP
