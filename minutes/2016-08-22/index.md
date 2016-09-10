@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Minutes for 2016-05-20
+title: Minutes for 2016-08-22
 ---
 
 ## What: ComSSA Meeting
