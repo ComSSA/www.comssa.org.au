@@ -29,7 +29,7 @@ title: ComSSA talks
 * Luke Mercuri <span class="parenthetical">— Curtin Computing, SE 2015</span>
 * Sandro Stikić <span class="parenthetical">— UWA Business School</span>
 
-[s2]: https://docs.google.com/presentation/d/1G_svQ_Av5P15hkcJUU1Vehb3Ka6STIXjxFhBp1T_MsQ
+[s2]: https://docs.google.com/presentation/d/1f9ucQkopn3xLJoy_mCQMYMhwCXTRDK7eWMcjcrhTFX4
 [h2]: https://docs.google.com/document/d/1WVrWsitVGvwecTse0nrwfjgIhY_ZAmhoNRd50d70uHE
 
 ## #1 — Talks from the Industry (2016-04-13)
