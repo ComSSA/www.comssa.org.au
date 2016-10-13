@@ -11,7 +11,6 @@ title: ComSSA talks
 
 ## #4 — Community conference (2016-10-05)
 
-* [Your name could be here!][EOI]
 * Stefan Prandl <span class="parenthetical">— CS (Honours) 2015</span>
 
 [EOI]: https://jordanchou.typeform.com/to/UDlW91
