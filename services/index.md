@@ -3,14 +3,6 @@ layout: default
 title: Member services
 ---
 
-## Engineering Pavilion access
-
-ComSSA members can use their Curtin ID cards to access the ground floor of the
-new Engineering Pavilion in building 215. This building is usually reserved for
-engineering and networking students, strangely excluding software engineering.
-
-Any current Curtin student, associate, or staff member who joins ComSSA will be
-granted card access, subject to restrictions by the building's caretaker.
 
 ## Pool table
 

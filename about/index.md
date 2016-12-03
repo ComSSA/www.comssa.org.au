@@ -12,8 +12,7 @@ enjoy university life, and represent students in any issues they may have with
 the Department of Computing or the university as a whole.
 
 Our [constitution] outlines the rules by which ComSSA runs, and you may hold us
-accountable for our adherence to decisions recorded in our [meeting
-minutes][minutes].
+accountable for our adherence to decisions recorded in our [meeting minutes][minutes].
 
 [constitution]: /static/const.pdf
 [minutes]: /minutes/
@@ -26,19 +25,19 @@ minutes][minutes].
 	</tr>
 	<tr>
 		<th><a href="mailto:president@comssa.org.au">President</a></th>
-		<td><a href="mailto:delan@comssa.org.au">Delan Azabani</a></td>
+		<td><a href="mailto:jordan@comssa.org.au">Jordan Chou</a></td>
 	</tr>
 	<tr>
 		<th><a href="mailto:vp@comssa.org.au">Vice President</a></th>
-		<td><a href="mailto:badges@comssa.org.au">Adam Parsons</a></td>
+		<td><a href="mailto:">Connor Beardsmore</a></td>
 	</tr>
 	<tr>
 		<th><a href="mailto:treasurer@comssa.org.au">Treasurer</a></th>
-		<td><a href="mailto:darryl@comssa.org.au">Darryl Ch'ng</a></td>
+		<td><a href="mailto:yib@comssa.org.au">Joshua Yeo</a></td>
 	</tr>
 	<tr>
 		<th><a href="mailto:secretary@comssa.org.au">Secretary</a></th>
-		<td><a href="mailto:jordan@comssa.org.au">Jordan Chou</a></td>
+		<td><a href="mailto:vanelden@comssa.org.au">Jordan Van Elden</a></td>
 	</tr>
 	<tr>
 		<th colspan="2"></th>
@@ -47,16 +46,20 @@ minutes][minutes].
 		<th colspan="2">Ordinary Committee Members</th>
 	</tr>
 	<tr>
-		<td><a href="mailto:sandro@comssa.org.au">Sandro Stikic"</a></td>
-		<td><a href="mailto:yib@comssa.org.au">Josh Yeo</a></td>
+		<td><a href="mailto:juin@comssa.org.au">Yi Juin Lim</a></td>
+		<td><a href="mailto:lukeh@comssa.org.au">Luke Healy</a></td>
 	</tr>
 	<tr>
-		<td><a href="mailto:james@comssa.org.au">James Borrett</a></td>
-		<td><a href="mailto:nroach44@comssa.org.au">Nathaniel Roach</a></td>
+		<td><a href="mailto:mercluke@comssa.org.au">Luke Mercuri</a></td>
+		<td><a href="mailto:badges@comssa.org.au">Adam Parsons</a></td>
 	</tr>
+    <tr>
+        <td><a href="mailto:jordany@comssa.org.au">Jordan Yeo</a></td>
+    </tr>
 </table>
 
 ## Affiliates
+
 
 ComSSA shares knowledge and runs joint events with three of the major
 computing clubs at neighbouring universities, bringing together our
