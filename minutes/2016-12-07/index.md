@@ -33,14 +33,21 @@ title: Minutes for 2016-12-07
 - people still need to be added to ComSSA Jobs page
 
 ## Treasury Report
-- expenditure
-	- adventure world
-	- sep prizes
-	- pool table felt
-	- LAN drinks and reimbursement
-- income
-	- adventure world tickets
-	- pool table
+- https://drive.google.com/file/d/0B44MdpDMxkWrdGdPTkZDdDRCbmM
+- Ending: 2016-12-07 (36 days)
+- revenue: $1129.72
+	- $416.10 - pool table
+	- $31.61 - LAN
+	- $652.40 - Adventure World
+	- $29.61 - memberships
+- expenditure: $3301.79
+	- $80.84 - LAN
+	- $310.20 - SEP prizes
+	- $420.00 - pool table
+	- $2490.75 - Adventure World
+- discrepancy: -$16.10
+- deposit: $542.00 (pending)
+- balance: $2124.49
 
 ## Agenda Items
 
