@@ -187,8 +187,53 @@ Outcome of the selection:
     * Yi Juin Lim
   * Throughout the year we will adjust the number of OCM's based on needs
 
+## Signatories
+
+* All accounts refer to the primary as well as the term deposit
+* All accounts would be two to sign
+* Debit card account would be one to sign
+
+### All accounts
+
+* The following executive committee shall be signatories to all accounts
+  * Jordan Chou (new President)
+  * Connor Beardsmore (new Vice President)
+  * Jordan Van Elden (new Secretary)
+  * Josh Yeo (new Treasurer)
+ 
+* These signatories shall receive online banking access
+  
+### Debit cards
+
+* The entire committee (including OCM's) shall be signatories to the debit card account
+ * Jordan Chou
+ * Connor Beardsmore
+ * Jordan Van Elden
+ * Josh Yeo
+ * Yi Juin Lim
+ * Luke Mercuri
+ * Luke Healy
+ * Jordan Yeo
+ * Adam Parsons
+ 
+* These signatories (excluding the executive committee) shall NOT receive online banking access
+* These signatories shall ALL receive debit cards
+
+### Old signatories
+
+* The current signatories are
+ * Delan Azabani (President)
+ * Adam Parsons (Acting VP)
+ * Jordan Chou (Secretary)
+ * Darryl Ch'ng (Treasurer)
+* The following signatories shall be removed from all accounts
+  * Delan Azabani
+  * Adam Parsons
+  * Darryl Ch'ng
+ 
+
 ## Common room proposal (draft)
 
   * Can be found [here](https://docs.google.com/document/d/13eVSD8EpSoQtgXiPNYK5G0lJZQJEDWAno94QWRi1B4c/edit?usp=sharing)
 
-## Finish: 1:58 p.m. (nominal)
+## Finish: 1:58 p.m.
