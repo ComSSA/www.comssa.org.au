@@ -12,6 +12,7 @@ title: Minutes for 2016-12-20
 ## Start: 7:15pm
 
 ## Attendance
+
 ### Committee
 - Connor Beardsmore
 - Jordan Van Elden
@@ -116,6 +117,7 @@ title: Minutes for 2016-12-20
 ## Agenda Items
 
 ### Handover 
+
 #### Bank Signatories
 - talked about in old action items
 

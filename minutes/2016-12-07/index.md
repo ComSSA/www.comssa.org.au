@@ -12,6 +12,7 @@ title: Minutes for 2016-12-07
 ## Start: 1:06pm
 
 ## Attendance
+
 ### Committee
 - Jordan Chou
 - Connor Beardsmore
@@ -139,6 +140,7 @@ title: Minutes for 2016-12-07
 	- indication of interest
 
 ### Stickers and membership
+
 #### stickers
 - membership
 - die cut
@@ -210,7 +212,9 @@ title: Minutes for 2016-12-07
 	- colloquim post
 
 ## Past Events
+
 ### Revision Sessions
+
 #### UCP
 - architecture room was not ideal
 
@@ -267,6 +271,7 @@ title: Minutes for 2016-12-07
 		- may lead to better attendance
 
 ## Upcoming Events
+
 ### Meeting with department
 - annual meeting with lecturers
 	- recap of year
