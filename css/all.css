@@ -129,3 +129,7 @@ nav a:last-child {
 .minutes {
 	background: none;
 }
+
+.center {
+    text-align: center;
+}

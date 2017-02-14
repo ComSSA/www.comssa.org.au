@@ -6,8 +6,11 @@ title: Member services
 
 ## Pool table
 
-Our [pool table][pool] is also available on the ground floor of the Engineering
+Our pool table is also available on the ground floor of the Engineering
 Pavilion, open to be played on by anyone with a $1 coin.
+
+{: .center}
+![Pool Table](../images/pool.jpg)
 
 [pool]: /services/pool/
 
@@ -25,8 +28,8 @@ Microsoft software.
 
 Members are eligible to receive a free shell account on our Linux servers to
 run mission-critical applications like <code>cmatrix</code> and
-<code>cowsay</code>, send and receive email, and host simple websites. If you 
-wish to have an account setup, send us an [email][listemail] expressing interest 
+<code>cowsay</code>, send and receive email, and host simple websites. If you
+wish to have an account setup, send us an [email][listemail] expressing interest
 and we'll get you all set up.
 
 [listemail]: mailto:club@comssa.org.au

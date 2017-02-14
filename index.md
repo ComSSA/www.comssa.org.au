@@ -3,13 +3,10 @@ layout: default
 title: The Computer Science Students Association
 ---
 
-<div class="img_right"><img width="240" height="320" src=
-"https://maps.googleapis.com/maps/api/staticmap?center=-32.009,115.896&amp;zoom=15&amp;size=240x320&amp;sensor=false&amp;markers=-32.0073,115.8946"
-></div>
-
 ComSSA is the club that supports computing, computer engineering, and networking
-students at Curtin University. Our office is located at room 215.104 on the ground floor of the Bentley campus Engineering Pavilion. Most of the time, committee members can be found within the 314
+students at Curtin University. Most of the time, committee members can be found within the 314
 level 2 labs.
+Our office is located at room 215.104 on the ground floor of the Bentley campus Engineering Pavilion. 
 
 We provide a wide range of [events] and [services] for our members, such as
 academic assistance, social events, industry presentations, and free Microsoft
@@ -17,6 +14,10 @@ software licences!
 
 [events]: /events/
 [services]: /services/
+
+
+{: .center}
+![314 Building](./images/314.jpg)
 
 Membership is open to everyone, even if you're not a student! Being affiliated
 with the Curtin Student Guild also means that membership is free, if you have a
