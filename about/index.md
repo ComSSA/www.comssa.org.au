@@ -11,11 +11,13 @@ professionals, provide a place for like-minded members to study, connect, and
 enjoy university life, and represent students in any issues they may have with
 the Department of Computing or the university as a whole.
 
-Our [constitution] outlines the rules by which ComSSA runs, and you may hold us
-accountable for our adherence to decisions recorded in our [meeting minutes][minutes].
+We also help to run Curtins [Coderdojo][coderdogo] branch. Coderdojo is a coding club for young people and we're always looking for mentors to help.
+
+Our [constitution] outlines the rules by which ComSSA runs, and feel free to read through any of our [meeting minutes][minutes].
 
 [constitution]: /static/const.pdf
 [minutes]: /minutes/
+[coderdogo]: /coderdojo/
 
 ## Committee members
 

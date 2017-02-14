@@ -13,16 +13,12 @@ well as special member pricing for our [events].
 [services]: /services/
 [events]: /events/
 
-You can become a member of ComSSA with either $10 or a Curtin Student Guild club
+You can become a member of ComSSA for $5 if you're a Curtin Guild Member or for free with a Curtin Student Guild club
 membership voucher. Interested in joining? Here's how!
 
 ## In-Person
 
-Talk to a committee member in our office, located in the Engineering Pavilion (215.104) or 
-
-If you find yourself in the Engineering Pavilion or the New Technologies
-building, see one of our friendly [committee members][about], who will be happy
-to sign you up. This method is required if you are using a club membership
+Talk to a committee member around building 314 at Curtin and we'll be happy to sign you up. If you're not sure who we are, have a look at the posters on the noticeboards. This method is required if you are using a club membership
 voucher.
 
 Can't find a committee member? [Email the committee][email] to set up a time!
@@ -32,8 +28,7 @@ Can't find a committee member? [Email the committee][email] to set up a time!
 
 ## Online
 
-If you'd prefer to sign up online, that's even easier! Unfortunately, you can't
-use club membership vouchers to sign up online.
+If you'd prefer to sign up online, that's even easier! Unfortunately, you can't use club membership vouchers to sign up online.
 
 To get started, head over to our [registration page][tidy]. You'll be asked for
 your Curtin Student Guild membership status, so please use this to let us know

@@ -8,6 +8,7 @@ title: ComSSA's sponsors
 We’re pleased to have these _amazing_ sponsors who are generous enough
 to provide us with prizes and offer discounts to our members:
 
+  * [Atlassian] - Software Development Company based in Sydney
   * [Altronics] — Build It Yourself Electronics Centre
   * [PLE] — Computer Systems, Hardware, and Accessories
   * [Tactics] — Fantasy & Wargaming Specialists
