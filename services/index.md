@@ -12,8 +12,6 @@ Pavilion, open to be played on by anyone with a $1 coin.
 {: .center}
 ![Pool Table](../images/pool.jpg)
 
-[pool]: /services/pool/
-
 ## Microsoft DreamSpark
 
 Microsoft provides students with a wide range of software licences for no
