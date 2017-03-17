@@ -3,6 +3,8 @@ layout: default
 title: Minutes for 2017-01-06
 ---
 
+![](../../images/letterhead.png)
+
 ## What: ComSSA Meeting
 
 ## Venue: 314.218

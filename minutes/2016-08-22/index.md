@@ -3,6 +3,8 @@ layout: default
 title: Minutes for 2016-08-22
 ---
 
+![](../../images/letterhead.png)
+
 ## What: ComSSA Meeting
 
 ## Venue:

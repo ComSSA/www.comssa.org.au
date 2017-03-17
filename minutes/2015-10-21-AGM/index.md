@@ -3,6 +3,8 @@ layout: default
 title: Minutes for the 2015-10-21 AGM
 ---
 
+![](../../images/letterhead.png)
+
 ## Venue: 403.107
 
 ## Start: 12:00 p.m. (nominal)

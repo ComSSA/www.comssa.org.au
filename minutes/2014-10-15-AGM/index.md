@@ -3,6 +3,8 @@ layout: default
 title: Minutes for the 2014-10-15 AGM
 ---
 
+![](../../images/letterhead.png)
+
 ## Venue: Engineering Pavilion, 215.100
 
 ## Start: <time datetime="2014-10-15T04:07Z">12:07 p.m.</time>

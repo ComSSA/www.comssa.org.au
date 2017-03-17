@@ -3,6 +3,8 @@ layout: default
 title: Minutes for SGM 2015-04-29
 ---
 
+![](../../images/letterhead.png)
+
 ## Venue: 216.117
 
 ##Meeting Start: 12:42 p.m.
