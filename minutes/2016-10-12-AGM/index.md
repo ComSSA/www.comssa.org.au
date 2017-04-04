@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Minutes for the 2015-10-21 AGM
+title: Minutes for the 2016-10-12 AGM
 ---
 
 ![](../../images/letterhead.png)
