@@ -31,7 +31,7 @@ Our [constitution] outlines the rules by which ComSSA runs, and feel free to rea
 	</tr>
 	<tr>
 		<th><a href="mailto:vp@comssa.org.au">Vice President</a></th>
-		<td><a href="mailto:">Connor Beardsmore</a></td>
+		<td><a href="mailto:">Sam Stoddard</a></td>
 	</tr>
 	<tr>
 		<th><a href="mailto:treasurer@comssa.org.au">Treasurer</a></th>
@@ -52,12 +52,16 @@ Our [constitution] outlines the rules by which ComSSA runs, and feel free to rea
 		<td><a href="mailto:lukeh@comssa.org.au">Luke Healy</a></td>
 	</tr>
 	<tr>
-		<td><a href="mailto:mercluke@comssa.org.au">Luke Mercuri</a></td>
+		<td><a href="mailto:jordany@comssa.org.au">Jordan Yeo</a></td>
 		<td><a href="mailto:badges@comssa.org.au">Adam Parsons</a></td>
 	</tr>
-    <tr>
-        <td><a href="mailto:jordany@comssa.org.au">Jordan Yeo</a></td>
-    </tr>
+	<tr>
+	    <td><a href="mailto:">Ashtyn Antulov</a></td>
+	    <td><a href="mailto:">Jeremy Ciccarelli</a></td>
+	</tr>
+	<tr>
+	    <td><a href="mailto:">Sam Bray</a></td>
+	</tr>
 </table>
 
 ## Affiliates
