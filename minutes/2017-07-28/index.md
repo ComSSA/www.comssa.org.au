@@ -49,10 +49,10 @@ title: Minutes for 2017-07-28
 - https://drive.google.com/open?id=0B44MdpDMxkWrbmNPVkgzbk00VHM
 - Ending: 2017-07-28 (28 days)
 - revenue: $112.00
-	- $107.00 - pool table
-	- $5.00 - membership sign up
+  - $107.00 - pool table
+  - $5.00 - membership sign up
 - expenditure: $44.85
-	- $44.85 - pool table supplies
+  - $44.85 - pool table supplies
 - discrepancy: $0.00
 - deposit: $0.00 (pending)
 - balance: $19,166.51
@@ -63,13 +63,15 @@ title: Minutes for 2017-07-28
 ## Agenda Items
 
 ### VP Resignation
+
+- Connor Beardsmore has given the committee formal notice that he will resign
 - Jordan V read out relevant constitution notes
 - Need to hold an SGM
-	- With vote to fill vacancy
-	- Date + time?
-		- August 23rd
-		- Wednesday common free time in a couple of weeks
-		- put some food on to get members
+  - With vote to fill vacancy
+  - Date + time?
+    - August 23rd
+    - Wednesday common free time in a couple of weeks
+    - put some food on to get members
 - Need to notify guild about committee change
 
 ## Past Events
@@ -90,9 +92,9 @@ title: Minutes for 2017-07-28
 ### TFTI 2
 - Sept 13th
 - Speakers?
-	- Same people as usual, maybe try to get new speakers
-	- Could ask Tim
-	- Luke H will talk to PWC
+  - Same people as usual, maybe try to get new speakers
+  - Could ask Tim Peskett
+  - Luke H will talk to PWC
 
 ## General Discussion
 - No talking points
