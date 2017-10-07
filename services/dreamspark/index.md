@@ -26,7 +26,7 @@ full access to our suite of DreamSpark software.
 
 ## What do I get?
 
-We have a [list of software][list] on our wiki.
+We have a [list of software][list] on our wiki or you can also contact a committee member on the lists.
 
 [list]: https://wiki.comssa.org.au/dreamspark
 

@@ -47,7 +47,7 @@ title: ComSSA talks
 * More details: [slides][s0] + [video][v0]
 * Geoffrey Moir <span class="parenthetical">— Atlassian, SE 2014</span>
 * Dan Lacey <span class="parenthetical">— Atlassian</span>
-* Lauren McHugh <span class="parenthetical">— Atlassian</span>
+* Lauren McHugh <span class="parenthetical">— Atlassian, SE 2015</span>
 * Brad Schoone <span class="parenthetical">— Atlassian, CS 2015</span>
 
 [s0]: https://docs.google.com/presentation/d/1G_svQ_Av5P15hkcJUU1Vehb3Ka6STIXjxFhBp1T_MsQ

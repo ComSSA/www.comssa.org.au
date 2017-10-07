@@ -6,7 +6,6 @@ title: The Computer Science Students Association
 ComSSA is the club that supports computing, computer engineering, and networking
 students at Curtin University. Most of the time, committee members can be found within the 314
 level 2 labs.
-Our office is located at room 215.104 on the ground floor of the Bentley campus Engineering Pavilion. 
 
 We provide a wide range of [events] and [services] for our members, such as
 academic assistance, social events, industry presentations, and free Microsoft

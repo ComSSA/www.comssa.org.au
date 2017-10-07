@@ -14,7 +14,7 @@ Pavilion, open to be played on by anyone with a $1 coin.
 
 ## Microsoft DreamSpark
 
-Microsoft provides students with a wide range of software licences for no
+Microsoft provides computing students with a wide range of software licences for no
 charge, including Windows and Visual Studio. ComSSA manages a [DreamSpark
 Premium subscription][msdnaa] on behalf of the Department of Computing, so we're
 the people to talk to if you want to get your hands on a bunch of *free*
@@ -31,13 +31,6 @@ wish to have an account setup, send us an [email][listemail] expressing interest
 and we'll get you all set up.
 
 [listemail]: mailto:club@comssa.org.au
-
-## Unit materials, iLectures, and past exams
-
-Some of our members have archived unit media distributed via Blackboard and
-Echo360. Most of these units are in the departments of Computing or Mathematics.
-While not all units are available, we're always happy to share what we have with
-our members for no charge.
 
 ## IRC
 

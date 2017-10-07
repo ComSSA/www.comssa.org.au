@@ -13,9 +13,7 @@ to provide us with prizes and offer discounts to our members:
 
   * [Atlassian] - Software Development Company based in Sydney
   * [Altronics] — Build It Yourself Electronics Centre
-  * [PLE] — Computer Systems, Hardware, and Accessories
   * [Tactics] — Fantasy & Wargaming Specialists
-  * [Tokyo Underground] — Comic Books, Toys, and Collectibles
   * [Quality Comics] — Comic Books, Posters, and Apparel
 
 Show your membership sticker to the staff at any of these stores, and
@@ -31,9 +29,7 @@ year _alone_, and we’re looking forward to what will be an exciting
 opportunity.
 
 [Altronics]: http://www.altronics.com.au/
-[PLE]: https://www.ple.com.au/
 [Tactics]: http://www.tactics.net.au/
-[Tokyo Underground]: https://www.facebook.com/TokyoUndergroundPerth
 [Quality Comics]: https://www.facebook.com/qualitycomics
 [Princess Margaret Hospital Foundation]: https://pmhfoundation.com/
 [University Computer Club]: https://www.ucc.asn.au/
