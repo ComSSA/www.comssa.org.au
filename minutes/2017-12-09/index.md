@@ -14,7 +14,9 @@ title: Minutes for 2017-12-09
 ## Start: 11:06 a.m.
 
 ## Attendance
+
 ### Committee
+
 - Sam Stoddart
 - Lincoln Short
 - Ashtyn Antulov
@@ -25,51 +27,72 @@ title: Minutes for 2017-12-09
 - Jim Dawes
 
 ### Guests
+
 - Jordan Yeo
 
 ### Apologies
+
 - Luke Healy
 - Nehal Ghuman
 
 ### Absent
+
 - Sam Bray
 
 ## Old Minutes
+
 - none
 
 ## Old Action Items
+
 ### Sam S - What is Delan still paying for
+
 - got access to wiki, need everyone to sign up for accounts
 
 ### Sam S - EY Meeting
+
 - keen to sponsor
 
 ### Nehal - Contact PLE
+
 - drafted letter, just need to send through
 - will delegate someone else to send it (Nehal is overseas)
 
 ## Treasury Report
+
 - none yet, will have double report next meeting
 
 ## Agenda Items
 
 ## Past Events
+
 ### OOPD Revision
+
 - all went well
+
 ### UCP Revision
+
 - all went well
+
 ### DSA Revision
+
 - all went well
+
 ### DS Revision
+
 - Room booking
   - contacted Michelle, but turned out cannot book rooms for clubs, Hannes had to step in as a lecturer. Managed to get it booked
   - next time just mention rooms are for the department
+
 ### Adventure World
+
 - all went well 
 - Jordan Y bought an extra ticket, still needs to be reimbursed
 
 ## Upcoming Events
+
 ### LAN
+
 - EMP approved
   - Room booked
   - Tickets and advertising done
@@ -89,7 +112,9 @@ title: Minutes for 2017-12-09
     - Halo 1 (maybe )
 
 ## General Discussion
+
 ### Handover
+
 - Induction for Isaac
 - Bank Signatories
   - Ashtyn will go hand in the forms 
@@ -99,7 +124,9 @@ title: Minutes for 2017-12-09
   - Sam has one
 - Ling stuff
   - pretty tricky, but Sam knows how it works now
+
 ### Ordering 2018 Resources
+
 - Stickers
   - Jeremy will do it
 - Hoodies/Shirts
@@ -109,6 +136,7 @@ title: Minutes for 2017-12-09
 - Other Merch
 
 ### Roles for 2018
+
 - Assigning roles and events, not the only one doing it, just being in charge
 - Luke H might drop OCM
 - Social Media and PR
@@ -147,6 +175,7 @@ title: Minutes for 2017-12-09
   - Christian will be in charge
 
 ### Events for 2018
+
 - need to figure out who's running, how to run, what needs to be done immediately
 - O Week
   - need merch, stickers, a laptop for registration, booklets (what is ComSSA and what events ComSSA runs)
@@ -210,6 +239,7 @@ title: Minutes for 2017-12-09
     - Yi Juin 
 
 ### Sponsors
+
 - EY
   - will pay for own events
   - will organise a skills workshop, and another event to recruit
@@ -224,6 +254,7 @@ title: Minutes for 2017-12-09
   - need to renew
 
 ### CoderDojo support
+
 - New champions for committee
   - will talk to Nehal about him going for champion
 - Atrract members
@@ -232,25 +263,31 @@ title: Minutes for 2017-12-09
   - if anyone wants to step up as a champion, can get in touch with Tele to find out how it runs
 - vote
   - all in favour to support CoderDojo
+
 ### Inviting normal members to meetings
+
 - advertise via discord and facebook
 - vote 
   - all in favour 
 
 ### Wiki
+
 - Waiting for admin access from Delan
   - SamS got it, will get everyone else set up (will email committee)
 
 ### CASSA Collaboration
+
 - Contact the ECU computing club for potential collaborative events
   - Lincoln will talk to CASSA
 
 ## New Action Items
+
 - Jim will talk to Amy about designing a new logo for the discord 
 - Sam S will get committee wiki access
 - Sam S will remove old committee from Trello and mailing list
 
 ## Next Meeting
+
 - TBD
 
 ## Finish: 12:36 p.m.
