@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Minutes for <2018-01-21>
+title: Minutes for 2018-01-21
 ---
 
 ![](../../images/letterhead.png)
@@ -302,7 +302,7 @@ title: Minutes for <2018-01-21>
 ###  Manual process of adding committees to wiki
 
 * 	Christian to set up a time to meet up with Delan
-* 	About taking control and understanding the process of adding new committee members to the wiki back end database
+  * About taking control and understanding the process of adding new committee members to the wiki back end database
 
 ###  Contacts
 
