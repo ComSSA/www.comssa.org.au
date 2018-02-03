@@ -273,7 +273,7 @@ title: Minutes for 2018-01-21
 ### TFTI 
 
 * Possible speakers
-  * Atlassian (Both Sem1 and Sem2)
+  * Atlassian (Sem 2)
   * Bankwest
   * Avanad
   * EY 
