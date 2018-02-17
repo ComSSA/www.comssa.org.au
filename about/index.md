@@ -37,7 +37,7 @@ Our [constitution] outlines the rules by which ComSSA runs, and feel free to rea
 	</tr>
 	<tr>
 		<th><a href="mailto:secretary@comssa.org.au">Secretary</a></th>
-		<td><a href="mailto:"mailto:juin@comssa.org.au">Yi Juin Lim</a></td>
+		<td><a href="mailto:mailto:juin@comssa.org.au">Yi Juin Lim</a></td>
 	</tr>
 	<tr>
 		<th colspan="2"></th>
