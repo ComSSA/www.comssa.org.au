@@ -25,19 +25,19 @@ Our [constitution] outlines the rules by which ComSSA runs, and feel free to rea
 	</tr>
 	<tr>
 		<th><a href="mailto:president@comssa.org.au">President</a></th>
-		<td><a href="mailto:jordan@comssa.org.au">Jordan Chou</a></td>
+		<td><a href="mailto:">Samuel Stoddart</a></td>
 	</tr>
 	<tr>
 		<th><a href="mailto:vp@comssa.org.au">Vice President</a></th>
-		<td><a href="mailto:">Sam Stoddart</a></td>
+		<td><a href="mailto:">Ashtyn Antulov</a></td>
 	</tr>
 	<tr>
 		<th><a href="mailto:treasurer@comssa.org.au">Treasurer</a></th>
-		<td><a href="mailto:yib@comssa.org.au">Joshua Yeo</a></td>
+		<td><a href="mailto:">Nehal Ghuman</a></td>
 	</tr>
 	<tr>
 		<th><a href="mailto:secretary@comssa.org.au">Secretary</a></th>
-		<td><a href="mailto:vanelden@comssa.org.au">Jordan Van Elden</a></td>
+		<td><a href="mailto:"mailto:juin@comssa.org.au">Yi Juin Lim</a></td>
 	</tr>
 	<tr>
 		<th colspan="2"></th>
@@ -46,15 +46,15 @@ Our [constitution] outlines the rules by which ComSSA runs, and feel free to rea
 		<th colspan="2">Ordinary Committee Members</th>
 	</tr>
 	<tr>
-		<td><a href="mailto:juin@comssa.org.au">Yi Juin Lim</a></td>
-		<td><a href="mailto:lukeh@comssa.org.au">Luke Healy</a></td>
+		<td><a href="mailto:">Christian Brunette</a></td>
+		<td><a href="mailto:">Jim Parsons</a></td>
 	</tr>
 	<tr>
-		<td><a href="mailto:jordany@comssa.org.au">Jordan Yeo</a></td>
-		<td><a href="mailto:badges@comssa.org.au">Adam Parsons</a></td>
+		<td><a href="mailto:">Issac Waugh</a></td>
+		<td><a href="mailto:">Jor-el Paddick</a></td>
 	</tr>
 	<tr>
-	    <td><a href="mailto:">Ashtyn Antulov</a></td>
+	    <td><a href="mailto:">Lincoln Short</a></td>
 	    <td><a href="mailto:">Jeremy Ciccarelli</a></td>
 	</tr>
 	<tr>
