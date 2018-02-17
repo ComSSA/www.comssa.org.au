@@ -47,7 +47,7 @@ Our [constitution] outlines the rules by which ComSSA runs, and feel free to rea
 	</tr>
 	<tr>
 		<td><a href="mailto:">Christian Brunette</a></td>
-		<td><a href="mailto:">Jim Parsons</a></td>
+		<td><a href="mailto:">Jim Dawes</a></td>
 	</tr>
 	<tr>
 		<td><a href="mailto:">Issac Waugh</a></td>
