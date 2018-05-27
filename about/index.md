@@ -25,7 +25,7 @@ Our [constitution] outlines the rules by which ComSSA runs, and feel free to rea
 	</tr>
 	<tr>
 		<th><a href="mailto:president@comssa.org.au">President</a></th>
-		<td><a href="mailto:">Samuel Stoddart</a></td>
+		<td><a href="mailto:sov@comssa.org.au">Nehal Ghuman</a></td>
 	</tr>
 	<tr>
 		<th><a href="mailto:vp@comssa.org.au">Vice President</a></th>
@@ -33,7 +33,7 @@ Our [constitution] outlines the rules by which ComSSA runs, and feel free to rea
 	</tr>
 	<tr>
 		<th><a href="mailto:treasurer@comssa.org.au">Treasurer</a></th>
-		<td><a href="mailto:">Nehal Ghuman</a></td>
+		<td><a href="mailto:">Issac Waugh</a></td>
 	</tr>
 	<tr>
 		<th><a href="mailto:secretary@comssa.org.au">Secretary</a></th>
@@ -46,19 +46,19 @@ Our [constitution] outlines the rules by which ComSSA runs, and feel free to rea
 		<th colspan="2">Ordinary Committee Members</th>
 	</tr>
 	<tr>
-		<td><a href="mailto:">Christian Brunette</a></td>
+		<td><a href="mailto:vulnsec.comssa.org.ai">Christian Brunette</a></td>
 		<td><a href="mailto:">Jim Dawes</a></td>
 	</tr>
 	<tr>
-		<td><a href="mailto:">Issac Waugh</a></td>
+		<td><a href="mailto:">Simeon Leatherland</a></td>
 		<td><a href="mailto:">Jor-el Paddick</a></td>
 	</tr>
 	<tr>
-	    <td><a href="mailto:">Lincoln Short</a></td>
+	    <td><a href="mailto:lincoln@comssa.org.au">Lincoln Short</a></td>
 	    <td><a href="mailto:">Jeremy Ciccarelli</a></td>
 	</tr>
 	<tr>
-	    <td><a href="mailto:">Sam Bray</a></td>
+	    <td><a href="mailto:sambray.comssa.org.au">Sam Bray</a></td>
 	</tr>
 </table>
 
