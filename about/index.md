@@ -25,19 +25,19 @@ Our [constitution] outlines the rules by which ComSSA runs, and feel free to rea
 	</tr>
 	<tr>
 		<th><a href="mailto:president@comssa.org.au">President</a></th>
-		<td><a href="mailto:sov@comssa.org.au">Nehal Ghuman</a></td>
+		<td><a href="mailto:">Isaac Waugh</a></td>
 	</tr>
 	<tr>
 		<th><a href="mailto:vp@comssa.org.au">Vice President</a></th>
-		<td><a href="mailto:">Ashtyn Antulov</a></td>
+		<td><a href="mailto:">Simeon Leatherland</a></td>
 	</tr>
 	<tr>
 		<th><a href="mailto:treasurer@comssa.org.au">Treasurer</a></th>
-		<td><a href="mailto:">Issac Waugh</a></td>
+		<td><a href="mailto:">Jordan Chang</a></td>
 	</tr>
 	<tr>
 		<th><a href="mailto:secretary@comssa.org.au">Secretary</a></th>
-		<td><a href="mailto:mailto:juin@comssa.org.au">Yi Juin Lim</a></td>
+		<td><a href="mailto:">Yi Juin Lim</a></td>
 	</tr>
 	<tr>
 		<th colspan="2"></th>
@@ -46,19 +46,19 @@ Our [constitution] outlines the rules by which ComSSA runs, and feel free to rea
 		<th colspan="2">Ordinary Committee Members</th>
 	</tr>
 	<tr>
-		<td><a href="mailto:vulnsec.comssa.org.ai">Christian Brunette</a></td>
-		<td><a href="mailto:">Jim Dawes</a></td>
+		<td><a href="mailto:">Owen Frere</a></td>
+		<td><a href="mailto:">Kai Ciccarelli</a></td>
 	</tr>
 	<tr>
-		<td><a href="mailto:">Simeon Leatherland</a></td>
-		<td><a href="mailto:">Jor-el Paddick</a></td>
+		<td><a href="mailto:">Tim Dempsey</a></td>
+		<td><a href="mailto:">Kieran Cousins</a></td>
 	</tr>
 	<tr>
-	    <td><a href="mailto:lincoln@comssa.org.au">Lincoln Short</a></td>
-	    <td><a href="mailto:">Jeremy Ciccarelli</a></td>
+	    <td><a href="mailto:">Matthew Oldfield</a></td>
+	    <td><a href="mailto:">Kelly Shi</a></td>
 	</tr>
 	<tr>
-	    <td><a href="mailto:sambray.comssa.org.au">Sam Bray</a></td>
+	    <td><a href="mailto:">Luke Tan</a></td>
 	</tr>
 </table>
 
